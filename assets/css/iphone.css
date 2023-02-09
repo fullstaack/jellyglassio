@@ -1,0 +1,28 @@
+
+
+.iphone-container {
+  width: 700px;
+  height: 480px;
+  background-image: url("/../images/design/vector/iphone.jpg");
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: 800px;
+  position: relative;
+}
+
+.iphone-screen, iframe1 {
+  position: absolute;
+  width: 340px;
+  height: 540px;
+  top: 78px;
+  left: 250px;
+  background: #fff;
+  border: 2px #1D1F20 solid;
+  z-index: 500;
+  padding: 5px;
+}
+
+iframe1 {
+  top: 0;
+  left: 0;
+}

@@ -1,0 +1,1569 @@
+.swatch-gray-yellow,
+[class*="swatch-"] .swatch-gray-yellow {
+  background: #292828;
+  color: white;
+}
+.swatch-gray-yellow .decor,
+[class*="swatch-"] .swatch-gray-yellow .decor {
+  fill: #292828;
+  stroke: #f0c40f;
+}
+.swatch-gray-yellow h1,
+.swatch-gray-yellow h2,
+.swatch-gray-yellow h3,
+.swatch-gray-yellow h4,
+.swatch-gray-yellow h5,
+.swatch-gray-yellow h6,
+[class*="swatch-"] .swatch-gray-yellow h1,
+[class*="swatch-"] .swatch-gray-yellow h2,
+[class*="swatch-"] .swatch-gray-yellow h3,
+[class*="swatch-"] .swatch-gray-yellow h4,
+[class*="swatch-"] .swatch-gray-yellow h5,
+[class*="swatch-"] .swatch-gray-yellow h6 {
+  color: white;
+}
+.swatch-gray-yellow h1 a,
+.swatch-gray-yellow h2 a,
+.swatch-gray-yellow h3 a,
+.swatch-gray-yellow h4 a,
+.swatch-gray-yellow h5 a,
+.swatch-gray-yellow h6 a,
+[class*="swatch-"] .swatch-gray-yellow h1 a,
+[class*="swatch-"] .swatch-gray-yellow h2 a,
+[class*="swatch-"] .swatch-gray-yellow h3 a,
+[class*="swatch-"] .swatch-gray-yellow h4 a,
+[class*="swatch-"] .swatch-gray-yellow h5 a,
+[class*="swatch-"] .swatch-gray-yellow h6 a {
+  color: #e74c3c;
+}
+.swatch-gray-yellow h1 small,
+.swatch-gray-yellow h2 small,
+.swatch-gray-yellow h3 small,
+.swatch-gray-yellow h4 small,
+.swatch-gray-yellow h5 small,
+.swatch-gray-yellow h6 small,
+[class*="swatch-"] .swatch-gray-yellow h1 small,
+[class*="swatch-"] .swatch-gray-yellow h2 small,
+[class*="swatch-"] .swatch-gray-yellow h3 small,
+[class*="swatch-"] .swatch-gray-yellow h4 small,
+[class*="swatch-"] .swatch-gray-yellow h5 small,
+[class*="swatch-"] .swatch-gray-yellow h6 small {
+  color: white;
+}
+.swatch-gray-yellow a,
+[class*="swatch-"] .swatch-gray-yellow a {
+  color: #e74c3c;
+}
+.swatch-gray-yellow a:hover,
+[class*="swatch-"] .swatch-gray-yellow a:hover {
+  color: #cd3d2e;
+}
+.swatch-gray-yellow small,
+[class*="swatch-"] .swatch-gray-yellow small {
+  color: white;
+}
+.swatch-gray-yellow small a,
+[class*="swatch-"] .swatch-gray-yellow small a {
+  color: white;
+}
+.swatch-gray-yellow small a:hover,
+[class*="swatch-"] .swatch-gray-yellow small a:hover {
+  color: #e74c3c;
+}
+.swatch-gray-yellow i,
+[class*="swatch-"] .swatch-gray-yellow i {
+  color: white;
+}
+.swatch-gray-yellow blockquote,
+[class*="swatch-"] .swatch-gray-yellow blockquote {
+  border-color: rgba(0, 0, 0, 0.07);
+}
+.swatch-gray-yellow blockquote small,
+[class*="swatch-"] .swatch-gray-yellow blockquote small {
+  color: white;
+}
+.swatch-gray-yellow ::selection,
+[class*="swatch-"] .swatch-gray-yellow ::selection {
+  background: #efd46a;
+  color: #292828;
+}
+.swatch-gray-yellow ::-moz-selection,
+[class*="swatch-"] .swatch-gray-yellow ::-moz-selection {
+  background: #f0c40f;
+  color: #292828;
+}
+.swatch-gray-yellow hr,
+[class*="swatch-"] .swatch-gray-yellow hr {
+  border-top-color: rgba(0, 0, 0, 0.07);
+}
+.swatch-gray-yellow pre,
+[class*="swatch-"] .swatch-gray-yellow pre {
+  background: white;
+  color: #292828;
+}
+.swatch-gray-yellow .section-header:after,
+.swatch-gray-yellow .bordered-header:after,
+[class*="swatch-"] .swatch-gray-yellow .section-header:after,
+[class*="swatch-"] .swatch-gray-yellow .bordered-header:after {
+  background: #f0c40f;
+}
+.swatch-gray-yellow .active,
+[class*="swatch-"] .swatch-gray-yellow .active {
+  color: #cd3d2e;
+}
+.swatch-gray-yellow .btn-primary,
+.swatch-gray-yellow button,
+.swatch-gray-yellow input[type="submit"],
+[class*="swatch-"] .swatch-gray-yellow .btn-primary,
+[class*="swatch-"] .swatch-gray-yellow button,
+[class*="swatch-"] .swatch-gray-yellow input[type="submit"] {
+  background-color: #f0c40f;
+  color: black;
+}
+.swatch-gray-yellow .btn-primary:hover,
+.swatch-gray-yellow button:hover,
+.swatch-gray-yellow input[type="submit"]:hover,
+[class*="swatch-"] .swatch-gray-yellow .btn-primary:hover,
+[class*="swatch-"] .swatch-gray-yellow button:hover,
+[class*="swatch-"] .swatch-gray-yellow input[type="submit"]:hover {
+  background-color: rgba(240, 196, 15, 0.9);
+  color: black;
+}
+.swatch-gray-yellow .btn-primary.btn-icon-right:after,
+.swatch-gray-yellow button.btn-icon-right:after,
+.swatch-gray-yellow input[type="submit"].btn-icon-right:after,
+[class*="swatch-"] .swatch-gray-yellow .btn-primary.btn-icon-right:after,
+[class*="swatch-"] .swatch-gray-yellow button.btn-icon-right:after,
+[class*="swatch-"]
+  .swatch-gray-yellow
+  input[type="submit"].btn-icon-right:after {
+  border-left-color: #f0c40f;
+}
+.swatch-gray-yellow .btn-primary.btn-icon-left:after,
+.swatch-gray-yellow button.btn-icon-left:after,
+.swatch-gray-yellow input[type="submit"].btn-icon-left:after,
+[class*="swatch-"] .swatch-gray-yellow .btn-primary.btn-icon-left:after,
+[class*="swatch-"] .swatch-gray-yellow button.btn-icon-left:after,
+[class*="swatch-"]
+  .swatch-gray-yellow
+  input[type="submit"].btn-icon-left:after {
+  border-right-color: #f0c40f;
+}
+.swatch-gray-yellow .btn-primary.btn-icon-right:hover:after,
+.swatch-gray-yellow button.btn-icon-right:hover:after,
+.swatch-gray-yellow input[type="submit"].btn-icon-right:hover:after,
+[class*="swatch-"] .swatch-gray-yellow .btn-primary.btn-icon-right:hover:after,
+[class*="swatch-"] .swatch-gray-yellow button.btn-icon-right:hover:after,
+[class*="swatch-"]
+  .swatch-gray-yellow
+  input[type="submit"].btn-icon-right:hover:after {
+  border-left-color: rgba(240, 196, 15, 0.9);
+}
+.swatch-gray-yellow .btn-primary.btn-icon-left:hover:after,
+.swatch-gray-yellow button.btn-icon-left:hover:after,
+.swatch-gray-yellow input[type="submit"].btn-icon-left:hover:after,
+[class*="swatch-"] .swatch-gray-yellow .btn-primary.btn-icon-left:hover:after,
+[class*="swatch-"] .swatch-gray-yellow button.btn-icon-left:hover:after,
+[class*="swatch-"]
+  .swatch-gray-yellow
+  input[type="submit"].btn-icon-left:hover:after {
+  border-right-color: rgba(240, 196, 15, 0.9);
+}
+.swatch-gray-yellow .btn-primary .hex-alt,
+.swatch-gray-yellow button .hex-alt,
+.swatch-gray-yellow input[type="submit"] .hex-alt,
+[class*="swatch-"] .swatch-gray-yellow .btn-primary .hex-alt,
+[class*="swatch-"] .swatch-gray-yellow button .hex-alt,
+[class*="swatch-"] .swatch-gray-yellow input[type="submit"] .hex-alt {
+  background: rgba(255, 255, 255, 0.2);
+}
+.swatch-gray-yellow .btn-primary .hex-alt:before,
+.swatch-gray-yellow button .hex-alt:before,
+.swatch-gray-yellow input[type="submit"] .hex-alt:before,
+[class*="swatch-"] .swatch-gray-yellow .btn-primary .hex-alt:before,
+[class*="swatch-"] .swatch-gray-yellow button .hex-alt:before,
+[class*="swatch-"] .swatch-gray-yellow input[type="submit"] .hex-alt:before {
+  border-right-color: rgba(255, 255, 255, 0.2);
+}
+.swatch-gray-yellow .btn-primary .hex-alt:after,
+.swatch-gray-yellow button .hex-alt:after,
+.swatch-gray-yellow input[type="submit"] .hex-alt:after,
+[class*="swatch-"] .swatch-gray-yellow .btn-primary .hex-alt:after,
+[class*="swatch-"] .swatch-gray-yellow button .hex-alt:after,
+[class*="swatch-"] .swatch-gray-yellow input[type="submit"] .hex-alt:after {
+  border-left-color: rgba(255, 255, 255, 0.2);
+}
+.swatch-gray-yellow .btn-primary .hex-alt i,
+.swatch-gray-yellow button .hex-alt i,
+.swatch-gray-yellow input[type="submit"] .hex-alt i,
+[class*="swatch-"] .swatch-gray-yellow .btn-primary .hex-alt i,
+[class*="swatch-"] .swatch-gray-yellow button .hex-alt i,
+[class*="swatch-"] .swatch-gray-yellow input[type="submit"] .hex-alt i {
+  color: #fff !important;
+}
+.swatch-gray-yellow .btn-link,
+[class*="swatch-"] .swatch-gray-yellow .btn-link {
+  text-decoration: none;
+  box-shadow: 0px 0px 0px 1px #e74c3c inset;
+}
+.swatch-gray-yellow .btn-link:hover,
+[class*="swatch-"] .swatch-gray-yellow .btn-link:hover {
+  text-decoration: none;
+  color: #e74c3c;
+  background: rgba(240, 196, 15, 0.05);
+}
+.swatch-gray-yellow select,
+.swatch-gray-yellow textarea,
+.swatch-gray-yellow input,
+.swatch-gray-yellow .uneditable-input,
+.swatch-gray-yellow .input-group-btn,
+[class*="swatch-"] .swatch-gray-yellow select,
+[class*="swatch-"] .swatch-gray-yellow textarea,
+[class*="swatch-"] .swatch-gray-yellow input,
+[class*="swatch-"] .swatch-gray-yellow .uneditable-input,
+[class*="swatch-"] .swatch-gray-yellow .input-group-btn {
+  background: #e9eeef;
+  color: #666666;
+}
+.swatch-gray-yellow select:-moz-placeholder,
+.swatch-gray-yellow textarea:-moz-placeholder,
+.swatch-gray-yellow input:-moz-placeholder,
+.swatch-gray-yellow .uneditable-input:-moz-placeholder,
+.swatch-gray-yellow .input-group-btn:-moz-placeholder,
+[class*="swatch-"] .swatch-gray-yellow select:-moz-placeholder,
+[class*="swatch-"] .swatch-gray-yellow textarea:-moz-placeholder,
+[class*="swatch-"] .swatch-gray-yellow input:-moz-placeholder,
+[class*="swatch-"] .swatch-gray-yellow .uneditable-input:-moz-placeholder,
+[class*="swatch-"] .swatch-gray-yellow .input-group-btn:-moz-placeholder {
+  color: #737373;
+}
+.swatch-gray-yellow select::-moz-placeholder,
+.swatch-gray-yellow textarea::-moz-placeholder,
+.swatch-gray-yellow input::-moz-placeholder,
+.swatch-gray-yellow .uneditable-input::-moz-placeholder,
+.swatch-gray-yellow .input-group-btn::-moz-placeholder,
+[class*="swatch-"] .swatch-gray-yellow select::-moz-placeholder,
+[class*="swatch-"] .swatch-gray-yellow textarea::-moz-placeholder,
+[class*="swatch-"] .swatch-gray-yellow input::-moz-placeholder,
+[class*="swatch-"] .swatch-gray-yellow .uneditable-input::-moz-placeholder,
+[class*="swatch-"] .swatch-gray-yellow .input-group-btn::-moz-placeholder {
+  color: #737373;
+}
+.swatch-gray-yellow select:-ms-input-placeholder,
+.swatch-gray-yellow textarea:-ms-input-placeholder,
+.swatch-gray-yellow input:-ms-input-placeholder,
+.swatch-gray-yellow .uneditable-input:-ms-input-placeholder,
+.swatch-gray-yellow .input-group-btn:-ms-input-placeholder,
+[class*="swatch-"] .swatch-gray-yellow select:-ms-input-placeholder,
+[class*="swatch-"] .swatch-gray-yellow textarea:-ms-input-placeholder,
+[class*="swatch-"] .swatch-gray-yellow input:-ms-input-placeholder,
+[class*="swatch-"] .swatch-gray-yellow .uneditable-input:-ms-input-placeholder,
+[class*="swatch-"] .swatch-gray-yellow .input-group-btn:-ms-input-placeholder {
+  color: #737373;
+}
+.swatch-gray-yellow select::-webkit-input-placeholder,
+.swatch-gray-yellow textarea::-webkit-input-placeholder,
+.swatch-gray-yellow input::-webkit-input-placeholder,
+.swatch-gray-yellow .uneditable-input::-webkit-input-placeholder,
+.swatch-gray-yellow .input-group-btn::-webkit-input-placeholder,
+[class*="swatch-"] .swatch-gray-yellow select::-webkit-input-placeholder,
+[class*="swatch-"] .swatch-gray-yellow textarea::-webkit-input-placeholder,
+[class*="swatch-"] .swatch-gray-yellow input::-webkit-input-placeholder,
+[class*="swatch-"]
+  .swatch-gray-yellow
+  .uneditable-input::-webkit-input-placeholder,
+[class*="swatch-"]
+  .swatch-gray-yellow
+  .input-group-btn::-webkit-input-placeholder {
+  color: #737373;
+}
+.swatch-gray-yellow input:focus,
+.swatch-gray-yellow textarea:focus,
+.swatch-gray-yellow .form-control:focus,
+[class*="swatch-"] .swatch-gray-yellow input:focus,
+[class*="swatch-"] .swatch-gray-yellow textarea:focus,
+[class*="swatch-"] .swatch-gray-yellow .form-control:focus {
+  -moz-box-shadow: 0px 3px 0px #cddadd;
+  -webkit-box-shadow: 0px 3px 0px #cddadd;
+  box-shadow: 0px 3px 0px #cddadd;
+}
+.swatch-gray-yellow .form-icon-group i,
+[class*="swatch-"] .swatch-gray-yellow .form-icon-group i {
+  color: #f0c40f;
+}
+.swatch-gray-yellow input[type="button"],
+[class*="swatch-"] .swatch-gray-yellow input[type="button"] {
+  background: #f0c40f;
+  color: white;
+}
+.swatch-gray-yellow .table th,
+[class*="swatch-"] .swatch-gray-yellow .table th {
+  background-color: #f0c40f;
+  text-transform: uppercase;
+  color: #292828;
+}
+.swatch-gray-yellow.table th,
+[class*="swatch-"] .swatch-gray-yellow.table th {
+  color: #292828;
+  background-color: #f0c40f;
+}
+.swatch-gray-yellow .table th,
+.swatch-gray-yellow .table td,
+.swatch-gray-yellow .table-bordered,
+[class*="swatch-"] .swatch-gray-yellow .table th,
+[class*="swatch-"] .swatch-gray-yellow .table td,
+[class*="swatch-"] .swatch-gray-yellow .table-bordered {
+  border-color: rgba(0, 0, 0, 0.07);
+}
+.swatch-gray-yellow .table-striped tbody > tr:nth-child(odd) > td,
+.swatch-gray-yellow .table-striped tbody > tr:nth-child(odd) > th,
+.swatch-gray-yellow .table-hover tbody tr:hover > td,
+.swatch-gray-yellow .table-hover tbody tr:hover > th,
+[class*="swatch-"]
+  .swatch-gray-yellow
+  .table-striped
+  tbody
+  > tr:nth-child(odd)
+  > td,
+[class*="swatch-"]
+  .swatch-gray-yellow
+  .table-striped
+  tbody
+  > tr:nth-child(odd)
+  > th,
+[class*="swatch-"] .swatch-gray-yellow .table-hover tbody tr:hover > td,
+[class*="swatch-"] .swatch-gray-yellow .table-hover tbody tr:hover > th {
+  background: rgba(0, 0, 0, 0.07);
+}
+.swatch-gray-yellow.navbar,
+[class*="swatch-"] .swatch-gray-yellow.navbar {
+  background: #292828;
+  color: white;
+}
+.swatch-gray-yellow.navbar .navbar-brand,
+[class*="swatch-"] .swatch-gray-yellow.navbar .navbar-brand {
+  color: white;
+}
+.swatch-gray-yellow.navbar .navbar-brand:hover,
+[class*="swatch-"] .swatch-gray-yellow.navbar .navbar-brand:hover {
+  color: white;
+}
+.swatch-gray-yellow.navbar .nav > li > a,
+[class*="swatch-"] .swatch-gray-yellow.navbar .nav > li > a {
+  color: #e74c3c;
+}
+.swatch-gray-yellow.navbar .nav > li > a:hover,
+.swatch-gray-yellow.navbar .nav > li > a:focus,
+[class*="swatch-"] .swatch-gray-yellow.navbar .nav > li > a:hover,
+[class*="swatch-"] .swatch-gray-yellow.navbar .nav > li > a:focus {
+  background: none;
+}
+.swatch-gray-yellow.navbar .nav > li > a:before,
+[class*="swatch-"] .swatch-gray-yellow.navbar .nav > li > a:before {
+  background-color: #e74c3c;
+}
+.swatch-gray-yellow .navbar-toggle,
+[class*="swatch-"] .swatch-gray-yellow .navbar-toggle {
+  background: none;
+}
+.swatch-gray-yellow .navbar-toggle .icon-bar,
+[class*="swatch-"] .swatch-gray-yellow .navbar-toggle .icon-bar {
+  background-color: white;
+}
+.swatch-gray-yellow .navbar-toggle:hover,
+[class*="swatch-"] .swatch-gray-yellow .navbar-toggle:hover {
+  background: none;
+}
+.swatch-gray-yellow.navbar .nav > .active > a,
+.swatch-gray-yellow.navbar
+  .nav
+  > .current-menu-item
+  > a
+  .swatch-gray-yellow.navbar
+  .nav
+  > .active
+  > a:hover,
+.swatch-gray-yellow.navbar .nav > .current-menu-item > a:hover,
+.swatch-gray-yellow.navbar .nav > .active > a:focus,
+.swatch-gray-yellow.navbar .nav > .current-menu-item > a:focus,
+.swatch-gray-yellow.navbar .nav > li > a:focus,
+.swatch-gray-yellow.navbar .nav > li > a:hover,
+.swatch-gray-yellow.navbar .nav li.dropdown.open > .dropdown-toggle,
+.swatch-gray-yellow.navbar .nav li.dropdown.active > .dropdown-toggle,
+.swatch-gray-yellow.navbar .nav li.dropdown.open.active > .dropdown-toggle,
+[class*="swatch-"] .swatch-gray-yellow.navbar .nav > .active > a,
+[class*="swatch-"]
+  .swatch-gray-yellow.navbar
+  .nav
+  > .current-menu-item
+  > a
+  .swatch-gray-yellow.navbar
+  .nav
+  > .active
+  > a:hover,
+[class*="swatch-"]
+  .swatch-gray-yellow.navbar
+  .nav
+  > .current-menu-item
+  > a:hover,
+[class*="swatch-"] .swatch-gray-yellow.navbar .nav > .active > a:focus,
+[class*="swatch-"]
+  .swatch-gray-yellow.navbar
+  .nav
+  > .current-menu-item
+  > a:focus,
+[class*="swatch-"] .swatch-gray-yellow.navbar .nav > li > a:focus,
+[class*="swatch-"] .swatch-gray-yellow.navbar .nav > li > a:hover,
+[class*="swatch-"]
+  .swatch-gray-yellow.navbar
+  .nav
+  li.dropdown.open
+  > .dropdown-toggle,
+[class*="swatch-"]
+  .swatch-gray-yellow.navbar
+  .nav
+  li.dropdown.active
+  > .dropdown-toggle,
+[class*="swatch-"]
+  .swatch-gray-yellow.navbar
+  .nav
+  li.dropdown.open.active
+  > .dropdown-toggle,
+.swatch-gray-yellow.navbar
+  .nav
+  > .current-menu-item
+  > a
+  [class*="swatch-"]
+  .swatch-gray-yellow.navbar
+  .nav
+  > .active
+  > a:hover,
+[class*="swatch-"]
+  .swatch-gray-yellow.navbar
+  .nav
+  > .current-menu-item
+  > a
+  [class*="swatch-"]
+  .swatch-gray-yellow.navbar
+  .nav
+  > .active
+  > a:hover {
+  color: white;
+}
+.swatch-gray-yellow .dropdown-menu,
+[class*="swatch-"] .swatch-gray-yellow .dropdown-menu {
+  background: rgba(41, 40, 40, 0.95);
+  -moz-box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.1),
+    0px 4px 0px rgba(20, 20, 20, 0.3);
+  -webkit-box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.1),
+    0px 4px 0px rgba(20, 20, 20, 0.3);
+  box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.1), 0px 4px 0px rgba(20, 20, 20, 0.3);
+}
+.swatch-gray-yellow .dropdown-menu > li > a,
+[class*="swatch-"] .swatch-gray-yellow .dropdown-menu > li > a {
+  color: white;
+}
+.swatch-gray-yellow .dropdown-menu a:hover,
+.swatch-gray-yellow .dropdown-menu > .active > a,
+.swatch-gray-yellow .dropdown-menu > .active > a:hover,
+.swatch-gray-yellow .dropdown-menu > .active > a:focus,
+[class*="swatch-"] .swatch-gray-yellow .dropdown-menu a:hover,
+[class*="swatch-"] .swatch-gray-yellow .dropdown-menu > .active > a,
+[class*="swatch-"] .swatch-gray-yellow .dropdown-menu > .active > a:hover,
+[class*="swatch-"] .swatch-gray-yellow .dropdown-menu > .active > a:focus {
+  background: #f0c40f;
+  color: #292828;
+}
+.swatch-gray-yellow .dropdown-menu a:hover i,
+.swatch-gray-yellow .dropdown-menu > .active > a i,
+.swatch-gray-yellow .dropdown-menu > .active > a:hover i,
+.swatch-gray-yellow .dropdown-menu > .active > a:focus i,
+[class*="swatch-"] .swatch-gray-yellow .dropdown-menu a:hover i,
+[class*="swatch-"] .swatch-gray-yellow .dropdown-menu > .active > a i,
+[class*="swatch-"] .swatch-gray-yellow .dropdown-menu > .active > a:hover i,
+[class*="swatch-"] .swatch-gray-yellow .dropdown-menu > .active > a:focus i {
+  color: #292828;
+}
+.swatch-gray-yellow.navbar .nav > li > .dropdown-menu:after,
+.swatch-gray-yellow.navbar .nav > li > .dropdown-menu:before,
+[class*="swatch-"] .swatch-gray-yellow.navbar .nav > li > .dropdown-menu:after,
+[class*="swatch-"]
+  .swatch-gray-yellow.navbar
+  .nav
+  > li
+  > .dropdown-menu:before {
+  display: none;
+}
+.swatch-gray-yellow.navbar-scrolled,
+[class*="swatch-"] .swatch-gray-yellow.navbar-scrolled {
+  background: rgba(41, 40, 40, 0.95);
+}
+.swatch-gray-yellow.navbar-scrolled,
+[class*="swatch-"] .swatch-gray-yellow.navbar-scrolled {
+  -moz-box-shadow: 0px 4px 0px rgba(20, 20, 20, 0.3);
+  -webkit-box-shadow: 0px 4px 0px rgba(20, 20, 20, 0.3);
+  box-shadow: 0px 4px 0px rgba(20, 20, 20, 0.3);
+}
+.swatch-gray-yellow .dropdown-submenu > a:after,
+[class*="swatch-"] .swatch-gray-yellow .dropdown-submenu > a:after {
+  border-left-color: white !important;
+}
+.swatch-gray-yellow .dropdown-submenu > a:hover:after,
+[class*="swatch-"] .swatch-gray-yellow .dropdown-submenu > a:hover:after {
+  border-left-color: #292828 !important;
+}
+.swatch-gray-yellow .dropdown-menu .divider,
+[class*="swatch-"] .swatch-gray-yellow .dropdown-menu .divider {
+  background-color: rgba(0, 0, 0, 0.07);
+}
+.swatch-gray-yellow.navbar .nav-highlight > a,
+[class*="swatch-"] .swatch-gray-yellow.navbar .nav-highlight > a {
+  color: #292828 !important;
+}
+.swatch-gray-yellow.navbar .nav-highlight > a:after,
+[class*="swatch-"] .swatch-gray-yellow.navbar .nav-highlight > a:after {
+  background: #e74c3c;
+}
+.swatch-gray-yellow.navbar .nav-highlight > a:hover,
+[class*="swatch-"] .swatch-gray-yellow.navbar .nav-highlight > a:hover {
+  color: #292828 !important;
+}
+.swatch-gray-yellow.navbar .nav-highlight > a:hover:after,
+[class*="swatch-"] .swatch-gray-yellow.navbar .nav-highlight > a:hover:after {
+  background: rgba(231, 76, 60, 0.8);
+}
+.swatch-gray-yellow.navbar li.nav-highlight-ghost > a,
+[class*="swatch-"] .swatch-gray-yellow.navbar li.nav-highlight-ghost > a {
+  color: #e74c3c;
+}
+.swatch-gray-yellow.navbar li.nav-highlight-ghost > a:after,
+[class*="swatch-"] .swatch-gray-yellow.navbar li.nav-highlight-ghost > a:after {
+  border: 1px solid #e74c3c;
+}
+.swatch-gray-yellow.navbar li.nav-highlight-ghost > a:hover,
+[class*="swatch-"] .swatch-gray-yellow.navbar li.nav-highlight-ghost > a:hover {
+  color: rgba(231, 76, 60, 0.8);
+}
+.swatch-gray-yellow.navbar li.nav-highlight-ghost > a:hover:after,
+[class*="swatch-"]
+  .swatch-gray-yellow.navbar
+  li.nav-highlight-ghost
+  > a:hover:after {
+  border-color: rgba(231, 76, 60, 0.8);
+}
+@media (max-width: 979px) {
+  .swatch-gray-yellow.navbar .nav > li > a,
+  [class*="swatch-"] .swatch-gray-yellow.navbar .nav > li > a {
+    border-radius: 0;
+  }
+  .swatch-gray-yellow.navbar .nav > li > a:hover,
+  [class*="swatch-"] .swatch-gray-yellow.navbar .nav > li > a:hover {
+    background: #1c1b1b;
+    color: white;
+  }
+  .swatch-gray-yellow.navbar .dropdown-menu,
+  [class*="swatch-"] .swatch-gray-yellow.navbar .dropdown-menu {
+    background: #1c1b1b;
+    border-radius: 0;
+    box-shadow: none;
+  }
+  .swatch-gray-yellow.navbar .dropdown-menu > li > a,
+  [class*="swatch-"] .swatch-gray-yellow.navbar .dropdown-menu > li > a {
+    border-radius: 0;
+    color: white;
+  }
+  .swatch-gray-yellow.navbar .dropdown-menu li > a:hover,
+  .swatch-gray-yellow.navbar .dropdown-menu li > a:focus,
+  .swatch-gray-yellow.navbar .dropdown-menu li.active > a,
+  [class*="swatch-"] .swatch-gray-yellow.navbar .dropdown-menu li > a:hover,
+  [class*="swatch-"] .swatch-gray-yellow.navbar .dropdown-menu li > a:focus,
+  [class*="swatch-"] .swatch-gray-yellow.navbar .dropdown-menu li.active > a {
+    background: #141414;
+  }
+  .swatch-gray-yellow .dropdown-submenu > ul > li > a,
+  [class*="swatch-"] .swatch-gray-yellow .dropdown-submenu > ul > li > a {
+    background: #0f0f0f;
+  }
+  .swatch-gray-yellow .dropdown-submenu > ul > li > a:hover,
+  [class*="swatch-"] .swatch-gray-yellow .dropdown-submenu > ul > li > a:hover {
+    background: #1c1b1b;
+  }
+  .swatch-gray-yellow .dropdown-submenu > a:after,
+  [class*="swatch-"] .swatch-gray-yellow .dropdown-submenu > a:after {
+    border-left-color: transparent !important;
+    border-top-color: white !important;
+  }
+  .swatch-gray-yellow.navbar .nav-highlight > a,
+  [class*="swatch-"] .swatch-gray-yellow.navbar .nav-highlight > a {
+    color: #e74c3c !important;
+  }
+  .swatch-gray-yellow.navbar .nav-highlight > a:after,
+  [class*="swatch-"] .swatch-gray-yellow.navbar .nav-highlight > a:after {
+    background: transparent;
+  }
+  .swatch-gray-yellow.navbar .nav-highlight > a:hover,
+  [class*="swatch-"] .swatch-gray-yellow.navbar .nav-highlight > a:hover {
+    color: #e74c3c !important;
+  }
+  .swatch-gray-yellow.navbar .nav-highlight > a:hover:after,
+  [class*="swatch-"] .swatch-gray-yellow.navbar .nav-highlight > a:hover:after {
+    background: transparent;
+  }
+}
+.swatch-gray-yellow .pagination > li > a,
+[class*="swatch-"] .swatch-gray-yellow .pagination > li > a {
+  background: #f0c40f;
+  color: white;
+}
+.swatch-gray-yellow .pagination > .active > a,
+.swatch-gray-yellow .pagination > .active > span,
+.swatch-gray-yellow .pagination > li > a:hover,
+[class*="swatch-"] .swatch-gray-yellow .pagination > .active > a,
+[class*="swatch-"] .swatch-gray-yellow .pagination > .active > span,
+[class*="swatch-"] .swatch-gray-yellow .pagination > li > a:hover {
+  background: rgba(240, 196, 15, 0.8);
+}
+.swatch-gray-yellow .pagination > .active > a i,
+.swatch-gray-yellow .pagination > .active > span i,
+.swatch-gray-yellow .pagination > li > a:hover i,
+[class*="swatch-"] .swatch-gray-yellow .pagination > .active > a i,
+[class*="swatch-"] .swatch-gray-yellow .pagination > .active > span i,
+[class*="swatch-"] .swatch-gray-yellow .pagination > li > a:hover i {
+  color: white;
+}
+.swatch-gray-yellow .pagination > li:first-child i,
+[class*="swatch-"] .swatch-gray-yellow .pagination > li:first-child i {
+  color: white;
+}
+.swatch-gray-yellow .pagination > li:first-child a:after,
+[class*="swatch-"] .swatch-gray-yellow .pagination > li:first-child a:after {
+  border-right-color: #f0c40f;
+}
+.swatch-gray-yellow .pagination > li:first-child a:hover,
+[class*="swatch-"] .swatch-gray-yellow .pagination > li:first-child a:hover {
+  background: rgba(240, 196, 15, 0.8);
+}
+.swatch-gray-yellow .pagination > li:first-child a:hover:after,
+[class*="swatch-"]
+  .swatch-gray-yellow
+  .pagination
+  > li:first-child
+  a:hover:after {
+  border-right-color: rgba(240, 196, 15, 0.8);
+}
+.swatch-gray-yellow .pagination > li:last-child i,
+[class*="swatch-"] .swatch-gray-yellow .pagination > li:last-child i {
+  color: white;
+}
+.swatch-gray-yellow .pagination > li:last-child a:after,
+[class*="swatch-"] .swatch-gray-yellow .pagination > li:last-child a:after {
+  border-left-color: #f0c40f;
+}
+.swatch-gray-yellow .pagination > li:last-child a:hover,
+[class*="swatch-"] .swatch-gray-yellow .pagination > li:last-child a:hover {
+  background: rgba(240, 196, 15, 0.8);
+}
+.swatch-gray-yellow .pagination > li:last-child a:hover:after,
+[class*="swatch-"]
+  .swatch-gray-yellow
+  .pagination
+  > li:last-child
+  a:hover:after {
+  border-left-color: rgba(240, 196, 15, 0.8);
+}
+.swatch-gray-yellow .tooltip-inner,
+[class*="swatch-"] .swatch-gray-yellow .tooltip-inner {
+  background-color: #f0c40f;
+  color: #292828;
+}
+.swatch-gray-yellow .tooltip.in,
+[class*="swatch-"] .swatch-gray-yellow .tooltip.in {
+  opacity: 1;
+}
+.swatch-gray-yellow .tooltip.top .tooltip-arrow,
+[class*="swatch-"] .swatch-gray-yellow .tooltip.top .tooltip-arrow {
+  border-top-color: #f0c40f;
+}
+.swatch-gray-yellow .tooltip.right .tooltip-arrow,
+[class*="swatch-"] .swatch-gray-yellow .tooltip.right .tooltip-arrow {
+  border-right-color: #f0c40f;
+}
+.swatch-gray-yellow .tooltip.left .tooltip-arrow,
+[class*="swatch-"] .swatch-gray-yellow .tooltip.left .tooltip-arrow {
+  border-left-color: #f0c40f;
+}
+.swatch-gray-yellow .tooltip.bottom .tooltip-arrow,
+[class*="swatch-"] .swatch-gray-yellow .tooltip.bottom .tooltip-arrow {
+  border-bottom-color: #f0c40f;
+}
+.swatch-gray-yellow .progress,
+[class*="swatch-"] .swatch-gray-yellow .progress {
+  background: rgba(0, 0, 0, 0.07);
+  box-shadow: none;
+}
+.swatch-gray-yellow .progress .progress-bar-primary,
+[class*="swatch-"] .swatch-gray-yellow .progress .progress-bar-primary {
+  background: #f0c40f;
+  box-shadow: none;
+}
+.swatch-gray-yellow .progress .progress-bar-primary span,
+[class*="swatch-"] .swatch-gray-yellow .progress .progress-bar-primary span {
+  color: white;
+}
+.swatch-gray-yellow .badge,
+[class*="swatch-"] .swatch-gray-yellow .badge {
+  background: #f0c40f;
+  color: #292828;
+}
+.swatch-gray-yellow .tab-content,
+.swatch-gray-yellow .nav-tabs .active a,
+.swatch-gray-yellow .tab-content,
+.swatch-gray-yellow .nav-tabs .active a:hover,
+[class*="swatch-"] .swatch-gray-yellow .tab-content,
+[class*="swatch-"] .swatch-gray-yellow .nav-tabs .active a,
+[class*="swatch-"] .swatch-gray-yellow .tab-content,
+[class*="swatch-"] .swatch-gray-yellow .nav-tabs .active a:hover {
+  background: #f0c40f;
+}
+.swatch-gray-yellow .nav-tabs > li > a:hover,
+.swatch-gray-yellow .nav-tabs > li > a:focus,
+[class*="swatch-"] .swatch-gray-yellow .nav-tabs > li > a:hover,
+[class*="swatch-"] .swatch-gray-yellow .nav-tabs > li > a:focus {
+  color: #292828;
+  background-color: #f0c40f;
+}
+.swatch-gray-yellow .nav-tabs > li.active > a,
+[class*="swatch-"] .swatch-gray-yellow .nav-tabs > li.active > a {
+  color: #292828;
+}
+.swatch-gray-yellow .nav-tabs > li.active > a:hover,
+[class*="swatch-"] .swatch-gray-yellow .nav-tabs > li.active > a:hover {
+  color: #292828;
+}
+.swatch-gray-yellow .nav-pills > .active > a,
+.swatch-gray-yellow .nav-pills > .active > a:hover,
+.swatch-gray-yellow .nav-pills > li > a:hover,
+[class*="swatch-"] .swatch-gray-yellow .nav-pills > .active > a,
+[class*="swatch-"] .swatch-gray-yellow .nav-pills > .active > a:hover,
+[class*="swatch-"] .swatch-gray-yellow .nav-pills > li > a:hover {
+  background: #f0c40f;
+  color: #292828;
+}
+.swatch-gray-yellow .nav-pills > .active > a .badge,
+.swatch-gray-yellow .nav-pills > .active > a:hover .badge,
+.swatch-gray-yellow .nav-pills > li > a:hover .badge,
+[class*="swatch-"] .swatch-gray-yellow .nav-pills > .active > a .badge,
+[class*="swatch-"] .swatch-gray-yellow .nav-pills > .active > a:hover .badge,
+[class*="swatch-"] .swatch-gray-yellow .nav-pills > li > a:hover .badge {
+  background: #292828;
+  color: #f0c40f;
+}
+.swatch-gray-yellow .nav-pills > .active > a:hover,
+.swatch-gray-yellow .nav-pills > .active > a:hover:hover,
+.swatch-gray-yellow .nav-pills > li > a:hover:hover,
+[class*="swatch-"] .swatch-gray-yellow .nav-pills > .active > a:hover,
+[class*="swatch-"] .swatch-gray-yellow .nav-pills > .active > a:hover:hover,
+[class*="swatch-"] .swatch-gray-yellow .nav-pills > li > a:hover:hover {
+  color: #292828;
+}
+.swatch-gray-yellow .tab-pane,
+.swatch-gray-yellow .tab-pane.active,
+[class*="swatch-"] .swatch-gray-yellow .tab-pane,
+[class*="swatch-"] .swatch-gray-yellow .tab-pane.active {
+  color: #292828;
+}
+.swatch-gray-yellow .tab-pane h1,
+.swatch-gray-yellow .tab-pane h2,
+.swatch-gray-yellow .tab-pane h3,
+.swatch-gray-yellow .tab-pane h4,
+.swatch-gray-yellow .tab-pane h5,
+.swatch-gray-yellow .tab-pane h6,
+.swatch-gray-yellow .tab-pane a,
+.swatch-gray-yellow .tab-pane p,
+.swatch-gray-yellow .tab-pane.active h1,
+.swatch-gray-yellow .tab-pane.active h2,
+.swatch-gray-yellow .tab-pane.active h3,
+.swatch-gray-yellow .tab-pane.active h4,
+.swatch-gray-yellow .tab-pane.active h5,
+.swatch-gray-yellow .tab-pane.active h6,
+.swatch-gray-yellow .tab-pane.active a,
+.swatch-gray-yellow .tab-pane.active p,
+[class*="swatch-"] .swatch-gray-yellow .tab-pane h1,
+[class*="swatch-"] .swatch-gray-yellow .tab-pane h2,
+[class*="swatch-"] .swatch-gray-yellow .tab-pane h3,
+[class*="swatch-"] .swatch-gray-yellow .tab-pane h4,
+[class*="swatch-"] .swatch-gray-yellow .tab-pane h5,
+[class*="swatch-"] .swatch-gray-yellow .tab-pane h6,
+[class*="swatch-"] .swatch-gray-yellow .tab-pane a,
+[class*="swatch-"] .swatch-gray-yellow .tab-pane p,
+[class*="swatch-"] .swatch-gray-yellow .tab-pane.active h1,
+[class*="swatch-"] .swatch-gray-yellow .tab-pane.active h2,
+[class*="swatch-"] .swatch-gray-yellow .tab-pane.active h3,
+[class*="swatch-"] .swatch-gray-yellow .tab-pane.active h4,
+[class*="swatch-"] .swatch-gray-yellow .tab-pane.active h5,
+[class*="swatch-"] .swatch-gray-yellow .tab-pane.active h6,
+[class*="swatch-"] .swatch-gray-yellow .tab-pane.active a,
+[class*="swatch-"] .swatch-gray-yellow .tab-pane.active p {
+  color: #292828;
+}
+.swatch-gray-yellow .tab-pane .btn,
+.swatch-gray-yellow .tab-pane.active .btn,
+[class*="swatch-"] .swatch-gray-yellow .tab-pane .btn,
+[class*="swatch-"] .swatch-gray-yellow .tab-pane.active .btn {
+  color: #f0c40f !important;
+  background: #292828 !important;
+}
+.swatch-gray-yellow .tab-pane .tooltip-inner,
+.swatch-gray-yellow .tab-pane.active .tooltip-inner,
+[class*="swatch-"] .swatch-gray-yellow .tab-pane .tooltip-inner,
+[class*="swatch-"] .swatch-gray-yellow .tab-pane.active .tooltip-inner {
+  background-color: #292828;
+  color: #f0c40f;
+}
+.swatch-gray-yellow .tab-pane .tooltip.top .tooltip-arrow,
+.swatch-gray-yellow .tab-pane.active .tooltip.top .tooltip-arrow,
+[class*="swatch-"] .swatch-gray-yellow .tab-pane .tooltip.top .tooltip-arrow,
+[class*="swatch-"]
+  .swatch-gray-yellow
+  .tab-pane.active
+  .tooltip.top
+  .tooltip-arrow {
+  border-top-color: #292828;
+}
+.swatch-gray-yellow .tab-pane .tooltip.right .tooltip-arrow,
+.swatch-gray-yellow .tab-pane.active .tooltip.right .tooltip-arrow,
+[class*="swatch-"] .swatch-gray-yellow .tab-pane .tooltip.right .tooltip-arrow,
+[class*="swatch-"]
+  .swatch-gray-yellow
+  .tab-pane.active
+  .tooltip.right
+  .tooltip-arrow {
+  border-right-color: #292828;
+}
+.swatch-gray-yellow .tab-pane .tooltip.left .tooltip-arrow,
+.swatch-gray-yellow .tab-pane.active .tooltip.left .tooltip-arrow,
+[class*="swatch-"] .swatch-gray-yellow .tab-pane .tooltip.left .tooltip-arrow,
+[class*="swatch-"]
+  .swatch-gray-yellow
+  .tab-pane.active
+  .tooltip.left
+  .tooltip-arrow {
+  border-left-color: #292828;
+}
+.swatch-gray-yellow .tab-pane .tooltip.bottom .tooltip-arrow,
+.swatch-gray-yellow .tab-pane.active .tooltip.bottom .tooltip-arrow,
+[class*="swatch-"] .swatch-gray-yellow .tab-pane .tooltip.bottom .tooltip-arrow,
+[class*="swatch-"]
+  .swatch-gray-yellow
+  .tab-pane.active
+  .tooltip.bottom
+  .tooltip-arrow {
+  border-bottom-color: #292828;
+}
+.swatch-gray-yellow .docs-sidebar-nav,
+.swatch-gray-yellow.docs-sidebar-nav,
+[class*="swatch-"] .swatch-gray-yellow .docs-sidebar-nav,
+[class*="swatch-"] .swatch-gray-yellow.docs-sidebar-nav {
+  background: none;
+}
+.swatch-gray-yellow .docs-sidebar-nav li a,
+.swatch-gray-yellow.docs-sidebar-nav li a,
+[class*="swatch-"] .swatch-gray-yellow .docs-sidebar-nav li a,
+[class*="swatch-"] .swatch-gray-yellow.docs-sidebar-nav li a {
+  background: rgba(0, 0, 0, 0.07);
+}
+.swatch-gray-yellow .docs-sidebar-nav li.active a,
+.swatch-gray-yellow.docs-sidebar-nav li.active a,
+[class*="swatch-"] .swatch-gray-yellow .docs-sidebar-nav li.active a,
+[class*="swatch-"] .swatch-gray-yellow.docs-sidebar-nav li.active a {
+  background: #e74c3c;
+  color: #292828;
+}
+.swatch-gray-yellow .panel,
+.swatch-gray-yellow .well,
+[class*="swatch-"] .swatch-gray-yellow .panel,
+[class*="swatch-"] .swatch-gray-yellow .well {
+  background: rgba(0, 0, 0, 0.07);
+}
+.swatch-gray-yellow .panel-heading,
+[class*="swatch-"] .swatch-gray-yellow .panel-heading {
+  background: #f0c40f;
+}
+.swatch-gray-yellow .panel-heading a,
+.swatch-gray-yellow .panel-heading .panel-title,
+[class*="swatch-"] .swatch-gray-yellow .panel-heading a,
+[class*="swatch-"] .swatch-gray-yellow .panel-heading .panel-title {
+  color: #292828;
+  text-decoration: none;
+}
+.swatch-gray-yellow .carousel-indicators li,
+[class*="swatch-"] .swatch-gray-yellow .carousel-indicators li {
+  background-color: rgba(240, 196, 15, 0.5);
+}
+.swatch-gray-yellow .carousel-indicators li.active,
+[class*="swatch-"] .swatch-gray-yellow .carousel-indicators li.active {
+  background-color: #f0c40f;
+}
+.swatch-gray-yellow .thumbnail,
+[class*="swatch-"] .swatch-gray-yellow .thumbnail {
+  background: rgba(0, 0, 0, 0.07);
+}
+.swatch-gray-yellow .thumbnail:hover,
+[class*="swatch-"] .swatch-gray-yellow .thumbnail:hover {
+  background: #f0c40f;
+  color: #292828;
+}
+.swatch-gray-yellow .overlay,
+[class*="swatch-"] .swatch-gray-yellow .overlay {
+  background: rgba(0, 0, 0, 0.07) !important;
+}
+.swatch-gray-yellow .post-media,
+[class*="swatch-"] .swatch-gray-yellow .post-media {
+  background-color: rgba(0, 0, 0, 0.07) !important;
+}
+.swatch-gray-yellow .media-inner:after,
+[class*="swatch-"] .swatch-gray-yellow .media-inner:after {
+  background: #f0c40f;
+}
+.swatch-gray-yellow .social-icons li a,
+.swatch-gray-yellow .social-share li a,
+[class*="swatch-"] .swatch-gray-yellow .social-icons li a,
+[class*="swatch-"] .swatch-gray-yellow .social-share li a {
+  background-color: #f0c40f;
+}
+.swatch-gray-yellow .social-icons li a i,
+.swatch-gray-yellow .social-share li a i,
+[class*="swatch-"] .swatch-gray-yellow .social-icons li a i,
+[class*="swatch-"] .swatch-gray-yellow .social-share li a i {
+  color: #292828;
+}
+.swatch-gray-yellow .social-icons li a:not([data-iconcolor]):hover,
+.swatch-gray-yellow .social-share li a:not([data-iconcolor]):hover,
+[class*="swatch-"]
+  .swatch-gray-yellow
+  .social-icons
+  li
+  a:not([data-iconcolor]):hover,
+[class*="swatch-"]
+  .swatch-gray-yellow
+  .social-share
+  li
+  a:not([data-iconcolor]):hover {
+  background-color: rgba(240, 196, 15, 0.8);
+}
+.swatch-gray-yellow .social-simple li a i,
+[class*="swatch-"] .swatch-gray-yellow .social-simple li a i {
+  color: #f0c40f;
+}
+.swatch-gray-yellow .social-simple li a:not([data-iconcolor]):hover i,
+[class*="swatch-"]
+  .swatch-gray-yellow
+  .social-simple
+  li
+  a:not([data-iconcolor]):hover
+  i {
+  color: rgba(255, 255, 255, 0.8);
+}
+.swatch-gray-yellow .grid-post .post-extras:before,
+[class*="swatch-"] .swatch-gray-yellow .grid-post .post-extras:before {
+  background: #292828;
+}
+.swatch-gray-yellow .post-extras i,
+[class*="swatch-"] .swatch-gray-yellow .post-extras i {
+  color: #e74c3c;
+}
+.swatch-gray-yellow .list-fancy-icons li,
+.swatch-gray-yellow.list-fancy-icons li,
+.swatch-gray-yellow .list-fancy-icons .list-item,
+.swatch-gray-yellow.list-fancy-icons .list-item,
+[class*="swatch-"] .swatch-gray-yellow .list-fancy-icons li,
+[class*="swatch-"] .swatch-gray-yellow.list-fancy-icons li,
+[class*="swatch-"] .swatch-gray-yellow .list-fancy-icons .list-item,
+[class*="swatch-"] .swatch-gray-yellow.list-fancy-icons .list-item {
+  background: #292828;
+}
+.swatch-gray-yellow .list-fancy-icons li .round,
+.swatch-gray-yellow .list-fancy-icons li .square,
+.swatch-gray-yellow.list-fancy-icons li .round,
+.swatch-gray-yellow.list-fancy-icons li .square,
+.swatch-gray-yellow .list-fancy-icons .list-item .round,
+.swatch-gray-yellow .list-fancy-icons .list-item .square,
+.swatch-gray-yellow.list-fancy-icons .list-item .round,
+.swatch-gray-yellow.list-fancy-icons .list-item .square,
+[class*="swatch-"] .swatch-gray-yellow .list-fancy-icons li .round,
+[class*="swatch-"] .swatch-gray-yellow .list-fancy-icons li .square,
+[class*="swatch-"] .swatch-gray-yellow.list-fancy-icons li .round,
+[class*="swatch-"] .swatch-gray-yellow.list-fancy-icons li .square,
+[class*="swatch-"] .swatch-gray-yellow .list-fancy-icons .list-item .round,
+[class*="swatch-"] .swatch-gray-yellow .list-fancy-icons .list-item .square,
+[class*="swatch-"] .swatch-gray-yellow.list-fancy-icons .list-item .round,
+[class*="swatch-"] .swatch-gray-yellow.list-fancy-icons .list-item .square {
+  background: #f0c40f;
+}
+.swatch-gray-yellow .list-fancy-icons li i,
+.swatch-gray-yellow.list-fancy-icons li i,
+.swatch-gray-yellow .list-fancy-icons .list-item i,
+.swatch-gray-yellow.list-fancy-icons .list-item i,
+[class*="swatch-"] .swatch-gray-yellow .list-fancy-icons li i,
+[class*="swatch-"] .swatch-gray-yellow.list-fancy-icons li i,
+[class*="swatch-"] .swatch-gray-yellow .list-fancy-icons .list-item i,
+[class*="swatch-"] .swatch-gray-yellow.list-fancy-icons .list-item i {
+  color: #292828;
+}
+.swatch-gray-yellow .box-inner,
+[class*="swatch-"] .swatch-gray-yellow .box-inner {
+  background: #f0c40f;
+}
+.swatch-gray-yellow .box-inner i,
+[class*="swatch-"] .swatch-gray-yellow .box-inner i {
+  color: #292828;
+}
+.swatch-gray-yellow .box-badge,
+[class*="swatch-"] .swatch-gray-yellow .box-badge {
+  background: rgba(240, 196, 15, 0.9);
+  color: #292828;
+}
+.swatch-gray-yellow .bordered:after,
+[class*="swatch-"] .swatch-gray-yellow .bordered:after {
+  background: #f0c40f;
+}
+.swatch-gray-yellow .vertical-icon-border [class^="col-md"]:first-child,
+.swatch-gray-yellow .horizontal-icon-border [class^="box-"]:before,
+[class*="swatch-"]
+  .swatch-gray-yellow
+  .vertical-icon-border
+  [class^="col-md"]:first-child,
+[class*="swatch-"]
+  .swatch-gray-yellow
+  .horizontal-icon-border
+  [class^="box-"]:before {
+  border-color: #f0c40f;
+}
+.swatch-gray-yellow #infscr-loading,
+[class*="swatch-"] .swatch-gray-yellow #infscr-loading {
+  background: #f0c40f;
+  color: #292828;
+}
+.swatch-gray-yellow .counter .value,
+[class*="swatch-"] .swatch-gray-yellow .counter .value {
+  color: white;
+}
+.swatch-gray-yellow .counter.underline:after,
+[class*="swatch-"] .swatch-gray-yellow .counter.underline:after {
+  background: #f0c40f;
+}
+.swatch-gray-yellow .countdown.underline b:before,
+[class*="swatch-"] .swatch-gray-yellow .countdown.underline b:before {
+  background: #f0c40f;
+}
+.swatch-gray-yellow .mejs-audio,
+[class*="swatch-"] .swatch-gray-yellow .mejs-audio {
+  background-color: #f0c40f;
+  color: #292828;
+}
+.swatch-gray-yellow .mejs-container .mejs-controls .mejs-time span,
+[class*="swatch-"]
+  .swatch-gray-yellow
+  .mejs-container
+  .mejs-controls
+  .mejs-time
+  span {
+  color: #292828;
+}
+.swatch-gray-yellow .mejs-controls .mejs-button button:hover,
+[class*="swatch-"]
+  .swatch-gray-yellow
+  .mejs-controls
+  .mejs-button
+  button:hover {
+  background-color: transparent;
+}
+.swatch-gray-yellow .mejs-controls .mejs-time-rail .mejs-time-loaded,
+[class*="swatch-"]
+  .swatch-gray-yellow
+  .mejs-controls
+  .mejs-time-rail
+  .mejs-time-loaded {
+  background-color: #292828;
+}
+.swatch-gray-yellow .mejs-controls .mejs-time-rail .mejs-time-current,
+.swatch-gray-yellow
+  .mejs-controls
+  .mejs-horizontal-volume-slider
+  .mejs-horizontal-volume-current,
+[class*="swatch-"]
+  .swatch-gray-yellow
+  .mejs-controls
+  .mejs-time-rail
+  .mejs-time-current,
+[class*="swatch-"]
+  .swatch-gray-yellow
+  .mejs-controls
+  .mejs-horizontal-volume-slider
+  .mejs-horizontal-volume-current {
+  background-color: rgba(0, 0, 0, 0.07);
+}
+.swatch-gray-yellow .hex,
+[class*="swatch-"] .swatch-gray-yellow .hex {
+  background-color: #f0c40f;
+  color: #292828;
+}
+.swatch-gray-yellow .hex a,
+.swatch-gray-yellow .hex i,
+[class*="swatch-"] .swatch-gray-yellow .hex a,
+[class*="swatch-"] .swatch-gray-yellow .hex i {
+  color: #292828;
+}
+.swatch-gray-yellow .hex a:hover,
+.swatch-gray-yellow .hex:hover,
+[class*="swatch-"] .swatch-gray-yellow .hex a:hover,
+[class*="swatch-"] .swatch-gray-yellow .hex:hover {
+  color: #292828;
+}
+.swatch-gray-yellow .hex:before,
+[class*="swatch-"] .swatch-gray-yellow .hex:before {
+  border-bottom-color: #f0c40f;
+}
+.swatch-gray-yellow .hex:after,
+[class*="swatch-"] .swatch-gray-yellow .hex:after {
+  border-top-color: #f0c40f;
+}
+.swatch-gray-yellow .hex-left:after,
+.swatch-gray-yellow .hex-left:before,
+.swatch-gray-yellow .hex-right:after,
+.swatch-gray-yellow .hex-right:before,
+[class*="swatch-"] .swatch-gray-yellow .hex-left:after,
+[class*="swatch-"] .swatch-gray-yellow .hex-left:before,
+[class*="swatch-"] .swatch-gray-yellow .hex-right:after,
+[class*="swatch-"] .swatch-gray-yellow .hex-right:before {
+  background-color: #292828;
+}
+.swatch-gray-yellow .pricing-head,
+.swatch-gray-yellow .pricing-body,
+[class*="swatch-"] .swatch-gray-yellow .pricing-head,
+[class*="swatch-"] .swatch-gray-yellow .pricing-body {
+  background: #f0c40f;
+  color: white;
+}
+.swatch-gray-yellow .pricing-head h4,
+.swatch-gray-yellow .pricing-head small,
+.swatch-gray-yellow .pricing-body h4,
+.swatch-gray-yellow .pricing-body small,
+[class*="swatch-"] .swatch-gray-yellow .pricing-head h4,
+[class*="swatch-"] .swatch-gray-yellow .pricing-head small,
+[class*="swatch-"] .swatch-gray-yellow .pricing-body h4,
+[class*="swatch-"] .swatch-gray-yellow .pricing-body small {
+  color: white;
+}
+.swatch-gray-yellow .pricing-list li,
+[class*="swatch-"] .swatch-gray-yellow .pricing-list li {
+  border-color: rgba(0, 0, 0, 0.07);
+}
+.swatch-gray-yellow .pricing-col .btn-primary,
+[class*="swatch-"] .swatch-gray-yellow .pricing-col .btn-primary {
+  background: white;
+  color: #f0c40f;
+}
+.swatch-gray-yellow .pricing-col .btn-primary:hover,
+[class*="swatch-"] .swatch-gray-yellow .pricing-col .btn-primary:hover {
+  background: #f0f0f0;
+}
+.swatch-gray-yellow .flexslider figcaption,
+[class*="swatch-"] .swatch-gray-yellow .flexslider figcaption {
+  background: rgba(41, 40, 40, 0.9);
+  -moz-box-shadow: 0px 4px 0px rgba(20, 20, 20, 0.3);
+  -webkit-box-shadow: 0px 4px 0px rgba(20, 20, 20, 0.3);
+  box-shadow: 0px 4px 0px rgba(20, 20, 20, 0.3);
+}
+.swatch-gray-yellow .flex-directions-fancy .flex-direction-nav a,
+[class*="swatch-"]
+  .swatch-gray-yellow
+  .flex-directions-fancy
+  .flex-direction-nav
+  a {
+  background: #f0c40f;
+  color: #292828;
+}
+.swatch-gray-yellow .flex-control-nav a,
+[class*="swatch-"] .swatch-gray-yellow .flex-control-nav a {
+  background: rgba(240, 196, 15, 0.5);
+}
+.swatch-gray-yellow .flex-control-nav a.flex-active,
+[class*="swatch-"] .swatch-gray-yellow .flex-control-nav a.flex-active {
+  background: #f0c40f;
+}
+.swatch-gray-yellow .sidebar,
+[class*="swatch-"] .swatch-gray-yellow .sidebar {
+  color: white;
+}
+.swatch-gray-yellow .sidebar h3,
+[class*="swatch-"] .swatch-gray-yellow .sidebar h3 {
+  color: white;
+}
+.swatch-gray-yellow .sidebar a,
+[class*="swatch-"] .swatch-gray-yellow .sidebar a {
+  color: white;
+}
+.swatch-gray-yellow .sidebar a:hover,
+[class*="swatch-"] .swatch-gray-yellow .sidebar a:hover {
+  color: #e74c3c;
+}
+.swatch-gray-yellow .widget_search .btn,
+[class*="swatch-"] .swatch-gray-yellow .widget_search .btn {
+  background: #cddadd;
+}
+.swatch-gray-yellow .widget_search .btn i,
+[class*="swatch-"] .swatch-gray-yellow .widget_search .btn i {
+  color: white !important;
+}
+.swatch-gray-yellow .sidebar-widget .post-icon,
+[class*="swatch-"] .swatch-gray-yellow .sidebar-widget .post-icon {
+  background: #f0c40f;
+}
+.swatch-gray-yellow .sidebar-widget .post-icon i,
+[class*="swatch-"] .swatch-gray-yellow .sidebar-widget .post-icon i {
+  color: #292828;
+}
+.swatch-gray-yellow .widget_tag_cloud ul a,
+[class*="swatch-"] .swatch-gray-yellow .widget_tag_cloud ul a {
+  background: #f0c40f;
+  color: #292828;
+}
+.swatch-gray-yellow .widget_tag_cloud ul a:hover,
+[class*="swatch-"] .swatch-gray-yellow .widget_tag_cloud ul a:hover {
+  background: rgba(240, 196, 15, 0.9);
+  color: #292828;
+}
+.swatch-gray-yellow .widget_calendar tbody a,
+[class*="swatch-"] .swatch-gray-yellow .widget_calendar tbody a {
+  background: #f0c40f;
+  color: #292828;
+}
+.swatch-gray-yellow .widget_calendar tbody a:hover,
+[class*="swatch-"] .swatch-gray-yellow .widget_calendar tbody a:hover {
+  background: #cea90d;
+  color: #292828;
+}
+.swatch-gray-yellow .widget_calendar tfoot,
+[class*="swatch-"] .swatch-gray-yellow .widget_calendar tfoot {
+  background: rgba(0, 0, 0, 0.07);
+}
+.swatch-gray-yellow .widget_nav_menu .sub-menu,
+[class*="swatch-"] .swatch-gray-yellow .widget_nav_menu .sub-menu {
+  border-color: rgba(0, 0, 0, 0.07);
+}
+.swatch-gray-yellow .widget_oxy_twitter li:before,
+[class*="swatch-"] .swatch-gray-yellow .widget_oxy_twitter li:before {
+  color: #f0c40f;
+}
+.swatch-gray-yellow .button,
+[class*="swatch-"] .swatch-gray-yellow .button {
+  background: #f0c40f;
+  color: white;
+}
+.swatch-gray-yellow .button:hover,
+[class*="swatch-"] .swatch-gray-yellow .button:hover {
+  background: rgba(240, 196, 15, 0.9);
+  color: white;
+}
+.swatch-gray-yellow .woocommerce-breadcrumb,
+[class*="swatch-"] .swatch-gray-yellow .woocommerce-breadcrumb {
+  color: white;
+}
+.swatch-gray-yellow .woocommerce-breadcrumb a,
+[class*="swatch-"] .swatch-gray-yellow .woocommerce-breadcrumb a {
+  color: white;
+}
+.swatch-gray-yellow .woocommerce-breadcrumb a:hover,
+[class*="swatch-"] .swatch-gray-yellow .woocommerce-breadcrumb a:hover {
+  color: white;
+}
+.swatch-gray-yellow .woocommerce-breadcrumb span:nth-child(1),
+[class*="swatch-"]
+  .swatch-gray-yellow
+  .woocommerce-breadcrumb
+  span:nth-child(1) {
+  background: #f0c40f;
+}
+.swatch-gray-yellow .woocommerce-breadcrumb span:nth-child(1):after,
+[class*="swatch-"]
+  .swatch-gray-yellow
+  .woocommerce-breadcrumb
+  span:nth-child(1):after {
+  border-left-color: #f0c40f;
+}
+.swatch-gray-yellow .woocommerce-breadcrumb span:nth-child(1):hover,
+[class*="swatch-"]
+  .swatch-gray-yellow
+  .woocommerce-breadcrumb
+  span:nth-child(1):hover {
+  background: #d8b00e;
+}
+.swatch-gray-yellow .woocommerce-breadcrumb span:nth-child(1):hover:after,
+[class*="swatch-"]
+  .swatch-gray-yellow
+  .woocommerce-breadcrumb
+  span:nth-child(1):hover:after {
+  border-left-color: #d8b00e;
+}
+.swatch-gray-yellow .woocommerce-breadcrumb span:nth-child(2),
+[class*="swatch-"]
+  .swatch-gray-yellow
+  .woocommerce-breadcrumb
+  span:nth-child(2) {
+  background: #f2ca27;
+}
+.swatch-gray-yellow .woocommerce-breadcrumb span:nth-child(2):after,
+[class*="swatch-"]
+  .swatch-gray-yellow
+  .woocommerce-breadcrumb
+  span:nth-child(2):after {
+  border-left-color: #f2ca27;
+}
+.swatch-gray-yellow .woocommerce-breadcrumb span:nth-child(2):hover,
+[class*="swatch-"]
+  .swatch-gray-yellow
+  .woocommerce-breadcrumb
+  span:nth-child(2):hover {
+  background: #f1c81d;
+}
+.swatch-gray-yellow .woocommerce-breadcrumb span:nth-child(2):hover:after,
+[class*="swatch-"]
+  .swatch-gray-yellow
+  .woocommerce-breadcrumb
+  span:nth-child(2):hover:after {
+  border-left-color: #f1c81d;
+}
+.swatch-gray-yellow .woocommerce-breadcrumb span:nth-child(3),
+[class*="swatch-"]
+  .swatch-gray-yellow
+  .woocommerce-breadcrumb
+  span:nth-child(3) {
+  background: #f3d03f;
+}
+.swatch-gray-yellow .woocommerce-breadcrumb span:nth-child(3):after,
+[class*="swatch-"]
+  .swatch-gray-yellow
+  .woocommerce-breadcrumb
+  span:nth-child(3):after {
+  border-left-color: #f3d03f;
+}
+.swatch-gray-yellow .woocommerce-breadcrumb span:nth-child(3):hover,
+[class*="swatch-"]
+  .swatch-gray-yellow
+  .woocommerce-breadcrumb
+  span:nth-child(3):hover {
+  background: #f2cc31;
+}
+.swatch-gray-yellow .woocommerce-breadcrumb span:nth-child(3):hover:after,
+[class*="swatch-"]
+  .swatch-gray-yellow
+  .woocommerce-breadcrumb
+  span:nth-child(3):hover:after {
+  border-left-color: #f2cc31;
+}
+.swatch-gray-yellow .woocommerce-breadcrumb span:nth-child(4),
+[class*="swatch-"]
+  .swatch-gray-yellow
+  .woocommerce-breadcrumb
+  span:nth-child(4) {
+  background: #f4d657;
+}
+.swatch-gray-yellow .woocommerce-breadcrumb span:nth-child(4):after,
+[class*="swatch-"]
+  .swatch-gray-yellow
+  .woocommerce-breadcrumb
+  span:nth-child(4):after {
+  border-left-color: #f4d657;
+}
+.swatch-gray-yellow .woocommerce-breadcrumb span:nth-child(4):hover,
+[class*="swatch-"]
+  .swatch-gray-yellow
+  .woocommerce-breadcrumb
+  span:nth-child(4):hover {
+  background: #f4d249;
+}
+.swatch-gray-yellow .woocommerce-breadcrumb span:nth-child(4):hover:after,
+[class*="swatch-"]
+  .swatch-gray-yellow
+  .woocommerce-breadcrumb
+  span:nth-child(4):hover:after {
+  border-left-color: #f4d249;
+}
+.swatch-gray-yellow .woocommerce-breadcrumb span:nth-child(5),
+[class*="swatch-"]
+  .swatch-gray-yellow
+  .woocommerce-breadcrumb
+  span:nth-child(5) {
+  background: #f6dc6f;
+}
+.swatch-gray-yellow .woocommerce-breadcrumb span:nth-child(5):after,
+[class*="swatch-"]
+  .swatch-gray-yellow
+  .woocommerce-breadcrumb
+  span:nth-child(5):after {
+  border-left-color: #f6dc6f;
+}
+.swatch-gray-yellow .woocommerce-breadcrumb span:nth-child(5):hover,
+[class*="swatch-"]
+  .swatch-gray-yellow
+  .woocommerce-breadcrumb
+  span:nth-child(5):hover {
+  background: #f5d861;
+}
+.swatch-gray-yellow .woocommerce-breadcrumb span:nth-child(5):hover:after,
+[class*="swatch-"]
+  .swatch-gray-yellow
+  .woocommerce-breadcrumb
+  span:nth-child(5):hover:after {
+  border-left-color: #f5d861;
+}
+.swatch-gray-yellow .woocommerce-ordering select,
+[class*="swatch-"] .swatch-gray-yellow .woocommerce-ordering select {
+  background: #f0c40f;
+  color: white;
+}
+.swatch-gray-yellow .woocommerce-ordering .select-wrap:after,
+[class*="swatch-"]
+  .swatch-gray-yellow
+  .woocommerce-ordering
+  .select-wrap:after {
+  color: white;
+}
+.swatch-gray-yellow .product .product-title:after,
+[class*="swatch-"] .swatch-gray-yellow .product .product-title:after {
+  background: #f0c40f;
+}
+.swatch-gray-yellow .star-rating,
+[class*="swatch-"] .swatch-gray-yellow .star-rating {
+  color: #f0c40f;
+}
+.swatch-gray-yellow .onsale,
+[class*="swatch-"] .swatch-gray-yellow .onsale {
+  background: #f0c40f;
+  color: white;
+}
+.swatch-gray-yellow .page-numbers a,
+.swatch-gray-yellow .page-numbers span,
+[class*="swatch-"] .swatch-gray-yellow .page-numbers a,
+[class*="swatch-"] .swatch-gray-yellow .page-numbers span {
+  color: white;
+}
+.swatch-gray-yellow .page-numbers li,
+[class*="swatch-"] .swatch-gray-yellow .page-numbers li {
+  background: #f0c40f;
+}
+.swatch-gray-yellow .page-numbers .current,
+.swatch-gray-yellow .page-numbers li a:hover,
+[class*="swatch-"] .swatch-gray-yellow .page-numbers .current,
+[class*="swatch-"] .swatch-gray-yellow .page-numbers li a:hover {
+  background: rgba(0, 0, 0, 0.07);
+}
+.swatch-gray-yellow .pager li > a:focus,
+[class*="swatch-"] .swatch-gray-yellow .pager li > a:focus {
+  background: #f0c40f;
+  color: white;
+}
+.swatch-gray-yellow .product-category h3,
+[class*="swatch-"] .swatch-gray-yellow .product-category h3 {
+  background: #f0c40f;
+  color: #292828;
+}
+.swatch-gray-yellow .product-category h3 mark,
+[class*="swatch-"] .swatch-gray-yellow .product-category h3 mark {
+  background: rgba(0, 0, 0, 0.07);
+  color: #292828;
+}
+.swatch-gray-yellow .product-nav a i,
+[class*="swatch-"] .swatch-gray-yellow .product-nav a i {
+  background: #f0c40f;
+  color: #292828;
+}
+.swatch-gray-yellow .product-images figcaption,
+[class*="swatch-"] .swatch-gray-yellow .product-images figcaption {
+  box-shadow: none;
+  background: #f0c40f;
+}
+.swatch-gray-yellow .product-images figcaption i,
+[class*="swatch-"] .swatch-gray-yellow .product-images figcaption i {
+  color: white;
+}
+.swatch-gray-yellow .product-images .flex-active,
+[class*="swatch-"] .swatch-gray-yellow .product-images .flex-active {
+  -moz-box-shadow: 0px 3px 0px #f0c40f;
+  -webkit-box-shadow: 0px 3px 0px #f0c40f;
+  box-shadow: 0px 3px 0px #f0c40f;
+}
+.swatch-gray-yellow .order_details,
+[class*="swatch-"] .swatch-gray-yellow .order_details {
+  background: rgba(0, 0, 0, 0.07);
+}
+.swatch-gray-yellow .order_details li,
+[class*="swatch-"] .swatch-gray-yellow .order_details li {
+  border-color: rgba(26, 26, 26, 0.07);
+}
+.swatch-gray-yellow .single-product-extras input,
+.swatch-gray-yellow .single-product-extras textarea,
+[class*="swatch-"] .swatch-gray-yellow .single-product-extras input,
+[class*="swatch-"] .swatch-gray-yellow .single-product-extras textarea {
+  background: #292828;
+  color: #f0c40f;
+}
+.swatch-gray-yellow .single-product-extras input[type="submit"]:hover,
+[class*="swatch-"]
+  .swatch-gray-yellow
+  .single-product-extras
+  input[type="submit"]:hover {
+  background: rgba(41, 40, 40, 0.9);
+  color: #f0c40f;
+}
+.swatch-gray-yellow #review_form:before,
+[class*="swatch-"] .swatch-gray-yellow #review_form:before {
+  background: #c09d0c;
+}
+.swatch-gray-yellow.mini-cart-container.active,
+[class*="swatch-"] .swatch-gray-yellow.mini-cart-container.active {
+  box-shadow: -10px 0px 0px rgba(20, 20, 20, 0.3);
+}
+.swatch-gray-yellow .cart_list li,
+[class*="swatch-"] .swatch-gray-yellow .cart_list li {
+  border-color: rgba(0, 0, 0, 0.07);
+}
+.swatch-gray-yellow .cart-actions,
+[class*="swatch-"] .swatch-gray-yellow .cart-actions {
+  background: #292828;
+}
+.swatch-gray-yellow .widget_product_tag_cloud a,
+[class*="swatch-"] .swatch-gray-yellow .widget_product_tag_cloud a {
+  background: #f0c40f;
+  color: #292828;
+}
+.swatch-gray-yellow .widget_product_tag_cloud a:hover,
+[class*="swatch-"] .swatch-gray-yellow .widget_product_tag_cloud a:hover {
+  background: rgba(240, 196, 15, 0.9);
+  color: #292828;
+}
+.swatch-gray-yellow .product_list_widget .star-rating,
+[class*="swatch-"] .swatch-gray-yellow .product_list_widget .star-rating {
+  color: #e74c3c;
+}
+.swatch-gray-yellow .widget_price_filter .ui-slider .ui-slider-range,
+[class*="swatch-"]
+  .swatch-gray-yellow
+  .widget_price_filter
+  .ui-slider
+  .ui-slider-range {
+  background: rgba(0, 0, 0, 0.07);
+}
+.swatch-gray-yellow .widget_price_filter .ui-slider .ui-slider-handle,
+[class*="swatch-"]
+  .swatch-gray-yellow
+  .widget_price_filter
+  .ui-slider
+  .ui-slider-handle {
+  background: #f0c40f;
+}
+.swatch-gray-yellow .widget_product_search form:after,
+[class*="swatch-"] .swatch-gray-yellow .widget_product_search form:after {
+  color: #292828;
+}

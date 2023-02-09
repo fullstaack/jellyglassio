@@ -1,0 +1,797 @@
+.swatch-black-red, [class*="swatch-"] .swatch-black-red {
+  background: #1c1e20;
+  color: white;
+}
+.swatch-black-red .decor, [class*="swatch-"] .swatch-black-red .decor {
+  fill: #1c1e20;
+  stroke: red;
+}
+.swatch-black-red h1, .swatch-black-red h2, .swatch-black-red h3, .swatch-black-red h4, .swatch-black-red h5, .swatch-black-red h6, [class*="swatch-"] .swatch-black-red h1, [class*="swatch-"] .swatch-black-red h2, [class*="swatch-"] .swatch-black-red h3, [class*="swatch-"] .swatch-black-red h4, [class*="swatch-"] .swatch-black-red h5, [class*="swatch-"] .swatch-black-red h6 {
+  color: white;
+}
+.swatch-black-red h1 a, .swatch-black-red h2 a, .swatch-black-red h3 a, .swatch-black-red h4 a, .swatch-black-red h5 a, .swatch-black-red h6 a, [class*="swatch-"] .swatch-black-red h1 a, [class*="swatch-"] .swatch-black-red h2 a, [class*="swatch-"] .swatch-black-red h3 a, [class*="swatch-"] .swatch-black-red h4 a, [class*="swatch-"] .swatch-black-red h5 a, [class*="swatch-"] .swatch-black-red h6 a {
+  color: #e74c3c;
+}
+.swatch-black-red h1 small, .swatch-black-red h2 small, .swatch-black-red h3 small, .swatch-black-red h4 small, .swatch-black-red h5 small, .swatch-black-red h6 small, [class*="swatch-"] .swatch-black-red h1 small, [class*="swatch-"] .swatch-black-red h2 small, [class*="swatch-"] .swatch-black-red h3 small, [class*="swatch-"] .swatch-black-red h4 small, [class*="swatch-"] .swatch-black-red h5 small, [class*="swatch-"] .swatch-black-red h6 small {
+  color: white;
+}
+.swatch-black-red a, [class*="swatch-"] .swatch-black-red a {
+  color: #e74c3c;
+}
+.swatch-black-red a:hover, [class*="swatch-"] .swatch-black-red a:hover {
+  color: #cd3d2e;
+}
+.swatch-black-red small, [class*="swatch-"] .swatch-black-red small {
+  color: white;
+}
+.swatch-black-red small a, [class*="swatch-"] .swatch-black-red small a {
+  color: white;
+}
+.swatch-black-red small a:hover, [class*="swatch-"] .swatch-black-red small a:hover {
+  color: #e74c3c;
+}
+.swatch-black-red i, [class*="swatch-"] .swatch-black-red i {
+  color: red;
+}
+.swatch-black-red blockquote, [class*="swatch-"] .swatch-black-red blockquote {
+  border-color: rgba(0, 0, 0, 0.07);
+}
+.swatch-black-red blockquote small, [class*="swatch-"] .swatch-black-red blockquote small {
+  color: white;
+}
+.swatch-black-red ::selection, [class*="swatch-"] .swatch-black-red ::selection {
+  background: red;
+  color: #1c1e20;
+}
+.swatch-black-red ::-moz-selection, [class*="swatch-"] .swatch-black-red ::-moz-selection {
+  background: red;
+  color: #1c1e20;
+}
+.swatch-black-red hr, [class*="swatch-"] .swatch-black-red hr {
+  border-top-color: rgba(0, 0, 0, 0.07);
+}
+.swatch-black-red pre, [class*="swatch-"] .swatch-black-red pre {
+  background: white;
+  color: #1c1e20;
+}
+.swatch-black-red .section-header:after, .swatch-black-red .bordered-header:after, [class*="swatch-"] .swatch-black-red .section-header:after, [class*="swatch-"] .swatch-black-red .bordered-header:after {
+  background: red;
+}
+.swatch-black-red .active, [class*="swatch-"] .swatch-black-red .active {
+  color: #cd3d2e;
+}
+.swatch-black-red .btn-primary, .swatch-black-red button, .swatch-black-red input[type="submit"], [class*="swatch-"] .swatch-black-red .btn-primary, [class*="swatch-"] .swatch-black-red button, [class*="swatch-"] .swatch-black-red input[type="submit"] {
+  background-color: red;
+  color: white;
+}
+.swatch-black-red .btn-primary:hover, .swatch-black-red button:hover, .swatch-black-red input[type="submit"]:hover, [class*="swatch-"] .swatch-black-red .btn-primary:hover, [class*="swatch-"] .swatch-black-red button:hover, [class*="swatch-"] .swatch-black-red input[type="submit"]:hover {
+  background-color: rgba(255, 0, 0, 0.9);
+  color: white;
+}
+.swatch-black-red .btn-primary.btn-icon-right:after, .swatch-black-red button.btn-icon-right:after, .swatch-black-red input[type="submit"].btn-icon-right:after, [class*="swatch-"] .swatch-black-red .btn-primary.btn-icon-right:after, [class*="swatch-"] .swatch-black-red button.btn-icon-right:after, [class*="swatch-"] .swatch-black-red input[type="submit"].btn-icon-right:after {
+  border-left-color: red;
+}
+.swatch-black-red .btn-primary.btn-icon-left:after, .swatch-black-red button.btn-icon-left:after, .swatch-black-red input[type="submit"].btn-icon-left:after, [class*="swatch-"] .swatch-black-red .btn-primary.btn-icon-left:after, [class*="swatch-"] .swatch-black-red button.btn-icon-left:after, [class*="swatch-"] .swatch-black-red input[type="submit"].btn-icon-left:after {
+  border-right-color: red;
+}
+.swatch-black-red .btn-primary.btn-icon-right:hover:after, .swatch-black-red button.btn-icon-right:hover:after, .swatch-black-red input[type="submit"].btn-icon-right:hover:after, [class*="swatch-"] .swatch-black-red .btn-primary.btn-icon-right:hover:after, [class*="swatch-"] .swatch-black-red button.btn-icon-right:hover:after, [class*="swatch-"] .swatch-black-red input[type="submit"].btn-icon-right:hover:after {
+  border-left-color: rgba(255, 0, 0, 0.9);
+}
+.swatch-black-red .btn-primary.btn-icon-left:hover:after, .swatch-black-red button.btn-icon-left:hover:after, .swatch-black-red input[type="submit"].btn-icon-left:hover:after, [class*="swatch-"] .swatch-black-red .btn-primary.btn-icon-left:hover:after, [class*="swatch-"] .swatch-black-red button.btn-icon-left:hover:after, [class*="swatch-"] .swatch-black-red input[type="submit"].btn-icon-left:hover:after {
+  border-right-color: rgba(255, 0, 0, 0.9);
+}
+.swatch-black-red .btn-primary .hex-alt, .swatch-black-red button .hex-alt, .swatch-black-red input[type="submit"] .hex-alt, [class*="swatch-"] .swatch-black-red .btn-primary .hex-alt, [class*="swatch-"] .swatch-black-red button .hex-alt, [class*="swatch-"] .swatch-black-red input[type="submit"] .hex-alt {
+  background: rgba(255, 255, 255, 0.2);
+}
+.swatch-black-red .btn-primary .hex-alt:before, .swatch-black-red button .hex-alt:before, .swatch-black-red input[type="submit"] .hex-alt:before, [class*="swatch-"] .swatch-black-red .btn-primary .hex-alt:before, [class*="swatch-"] .swatch-black-red button .hex-alt:before, [class*="swatch-"] .swatch-black-red input[type="submit"] .hex-alt:before {
+  border-right-color: rgba(255, 255, 255, 0.2);
+}
+.swatch-black-red .btn-primary .hex-alt:after, .swatch-black-red button .hex-alt:after, .swatch-black-red input[type="submit"] .hex-alt:after, [class*="swatch-"] .swatch-black-red .btn-primary .hex-alt:after, [class*="swatch-"] .swatch-black-red button .hex-alt:after, [class*="swatch-"] .swatch-black-red input[type="submit"] .hex-alt:after {
+  border-left-color: rgba(255, 255, 255, 0.2);
+}
+.swatch-black-red .btn-primary .hex-alt i, .swatch-black-red button .hex-alt i, .swatch-black-red input[type="submit"] .hex-alt i, [class*="swatch-"] .swatch-black-red .btn-primary .hex-alt i, [class*="swatch-"] .swatch-black-red button .hex-alt i, [class*="swatch-"] .swatch-black-red input[type="submit"] .hex-alt i {
+  color: #fff !important;
+}
+.swatch-black-red .btn-link, [class*="swatch-"] .swatch-black-red .btn-link {
+  text-decoration: none;
+  box-shadow: 0px 0px 0px 1px #e74c3c inset;
+}
+.swatch-black-red .btn-link:hover, [class*="swatch-"] .swatch-black-red .btn-link:hover {
+  text-decoration: none;
+  color: #e74c3c;
+  background: rgba(255, 0, 0, 0.05);
+}
+.swatch-black-red select, .swatch-black-red textarea, .swatch-black-red input, .swatch-black-red .uneditable-input, .swatch-black-red .input-group-btn, [class*="swatch-"] .swatch-black-red select, [class*="swatch-"] .swatch-black-red textarea, [class*="swatch-"] .swatch-black-red input, [class*="swatch-"] .swatch-black-red .uneditable-input, [class*="swatch-"] .swatch-black-red .input-group-btn {
+  background: #e9eeef;
+  color: #666666;
+}
+.swatch-black-red select:-moz-placeholder, .swatch-black-red textarea:-moz-placeholder, .swatch-black-red input:-moz-placeholder, .swatch-black-red .uneditable-input:-moz-placeholder, .swatch-black-red .input-group-btn:-moz-placeholder, [class*="swatch-"] .swatch-black-red select:-moz-placeholder, [class*="swatch-"] .swatch-black-red textarea:-moz-placeholder, [class*="swatch-"] .swatch-black-red input:-moz-placeholder, [class*="swatch-"] .swatch-black-red .uneditable-input:-moz-placeholder, [class*="swatch-"] .swatch-black-red .input-group-btn:-moz-placeholder {
+  color: #737373;
+}
+.swatch-black-red select::-moz-placeholder, .swatch-black-red textarea::-moz-placeholder, .swatch-black-red input::-moz-placeholder, .swatch-black-red .uneditable-input::-moz-placeholder, .swatch-black-red .input-group-btn::-moz-placeholder, [class*="swatch-"] .swatch-black-red select::-moz-placeholder, [class*="swatch-"] .swatch-black-red textarea::-moz-placeholder, [class*="swatch-"] .swatch-black-red input::-moz-placeholder, [class*="swatch-"] .swatch-black-red .uneditable-input::-moz-placeholder, [class*="swatch-"] .swatch-black-red .input-group-btn::-moz-placeholder {
+  color: #737373;
+}
+.swatch-black-red select:-ms-input-placeholder, .swatch-black-red textarea:-ms-input-placeholder, .swatch-black-red input:-ms-input-placeholder, .swatch-black-red .uneditable-input:-ms-input-placeholder, .swatch-black-red .input-group-btn:-ms-input-placeholder, [class*="swatch-"] .swatch-black-red select:-ms-input-placeholder, [class*="swatch-"] .swatch-black-red textarea:-ms-input-placeholder, [class*="swatch-"] .swatch-black-red input:-ms-input-placeholder, [class*="swatch-"] .swatch-black-red .uneditable-input:-ms-input-placeholder, [class*="swatch-"] .swatch-black-red .input-group-btn:-ms-input-placeholder {
+  color: #737373;
+}
+.swatch-black-red select::-webkit-input-placeholder, .swatch-black-red textarea::-webkit-input-placeholder, .swatch-black-red input::-webkit-input-placeholder, .swatch-black-red .uneditable-input::-webkit-input-placeholder, .swatch-black-red .input-group-btn::-webkit-input-placeholder, [class*="swatch-"] .swatch-black-red select::-webkit-input-placeholder, [class*="swatch-"] .swatch-black-red textarea::-webkit-input-placeholder, [class*="swatch-"] .swatch-black-red input::-webkit-input-placeholder, [class*="swatch-"] .swatch-black-red .uneditable-input::-webkit-input-placeholder, [class*="swatch-"] .swatch-black-red .input-group-btn::-webkit-input-placeholder {
+  color: #737373;
+}
+.swatch-black-red input:focus, .swatch-black-red textarea:focus, .swatch-black-red .form-control:focus, [class*="swatch-"] .swatch-black-red input:focus, [class*="swatch-"] .swatch-black-red textarea:focus, [class*="swatch-"] .swatch-black-red .form-control:focus {
+  -moz-box-shadow: 0px 3px 0px #cddadd;
+  -webkit-box-shadow: 0px 3px 0px #cddadd;
+  box-shadow: 0px 3px 0px #cddadd;
+}
+.swatch-black-red .form-icon-group i, [class*="swatch-"] .swatch-black-red .form-icon-group i {
+  color: red;
+}
+.swatch-black-red input[type="button"], [class*="swatch-"] .swatch-black-red input[type="button"] {
+  background: red;
+  color: white;
+}
+.swatch-black-red .table th, [class*="swatch-"] .swatch-black-red .table th {
+  background-color: red;
+  text-transform: uppercase;
+  color: #1c1e20;
+}
+.swatch-black-red.table th, [class*="swatch-"] .swatch-black-red.table th {
+  color: #1c1e20;
+  background-color: red;
+}
+.swatch-black-red .table th, .swatch-black-red .table td, .swatch-black-red .table-bordered, [class*="swatch-"] .swatch-black-red .table th, [class*="swatch-"] .swatch-black-red .table td, [class*="swatch-"] .swatch-black-red .table-bordered {
+  border-color: rgba(0, 0, 0, 0.07);
+}
+.swatch-black-red .table-striped tbody > tr:nth-child(odd) > td, .swatch-black-red .table-striped tbody > tr:nth-child(odd) > th, .swatch-black-red .table-hover tbody tr:hover > td, .swatch-black-red .table-hover tbody tr:hover > th, [class*="swatch-"] .swatch-black-red .table-striped tbody > tr:nth-child(odd) > td, [class*="swatch-"] .swatch-black-red .table-striped tbody > tr:nth-child(odd) > th, [class*="swatch-"] .swatch-black-red .table-hover tbody tr:hover > td, [class*="swatch-"] .swatch-black-red .table-hover tbody tr:hover > th {
+  background: rgba(0, 0, 0, 0.07);
+}
+.swatch-black-red.navbar, [class*="swatch-"] .swatch-black-red.navbar {
+  background: #1c1e20;
+  color: white;
+}
+.swatch-black-red.navbar .navbar-brand, [class*="swatch-"] .swatch-black-red.navbar .navbar-brand {
+  color: white;
+}
+.swatch-black-red.navbar .navbar-brand:hover, [class*="swatch-"] .swatch-black-red.navbar .navbar-brand:hover {
+  color: white;
+}
+.swatch-black-red.navbar .nav > li > a, [class*="swatch-"] .swatch-black-red.navbar .nav > li > a {
+  color: #e74c3c;
+}
+.swatch-black-red.navbar .nav > li > a:hover, .swatch-black-red.navbar .nav > li > a:focus, [class*="swatch-"] .swatch-black-red.navbar .nav > li > a:hover, [class*="swatch-"] .swatch-black-red.navbar .nav > li > a:focus {
+  background: none;
+}
+.swatch-black-red.navbar .nav > li > a:before, [class*="swatch-"] .swatch-black-red.navbar .nav > li > a:before {
+  background-color: #e74c3c;
+}
+.swatch-black-red .navbar-toggle, [class*="swatch-"] .swatch-black-red .navbar-toggle {
+  background: none;
+}
+.swatch-black-red .navbar-toggle .icon-bar, [class*="swatch-"] .swatch-black-red .navbar-toggle .icon-bar {
+  background-color: white;
+}
+.swatch-black-red .navbar-toggle:hover, [class*="swatch-"] .swatch-black-red .navbar-toggle:hover {
+  background: none;
+}
+.swatch-black-red.navbar .nav > .active > a, .swatch-black-red.navbar .nav > .current-menu-item > a
+.swatch-black-red.navbar .nav > .active > a:hover, .swatch-black-red.navbar .nav > .current-menu-item > a:hover, .swatch-black-red.navbar .nav > .active > a:focus, .swatch-black-red.navbar .nav > .current-menu-item > a:focus, .swatch-black-red.navbar .nav > li > a:focus, .swatch-black-red.navbar .nav > li > a:hover, .swatch-black-red.navbar .nav li.dropdown.open > .dropdown-toggle, .swatch-black-red.navbar .nav li.dropdown.active > .dropdown-toggle, .swatch-black-red.navbar .nav li.dropdown.open.active > .dropdown-toggle, [class*="swatch-"] .swatch-black-red.navbar .nav > .active > a, [class*="swatch-"] .swatch-black-red.navbar .nav > .current-menu-item > a
+.swatch-black-red.navbar .nav > .active > a:hover, [class*="swatch-"] .swatch-black-red.navbar .nav > .current-menu-item > a:hover, [class*="swatch-"] .swatch-black-red.navbar .nav > .active > a:focus, [class*="swatch-"] .swatch-black-red.navbar .nav > .current-menu-item > a:focus, [class*="swatch-"] .swatch-black-red.navbar .nav > li > a:focus, [class*="swatch-"] .swatch-black-red.navbar .nav > li > a:hover, [class*="swatch-"] .swatch-black-red.navbar .nav li.dropdown.open > .dropdown-toggle, [class*="swatch-"] .swatch-black-red.navbar .nav li.dropdown.active > .dropdown-toggle, [class*="swatch-"] .swatch-black-red.navbar .nav li.dropdown.open.active > .dropdown-toggle, .swatch-black-red.navbar .nav > .current-menu-item > a
+[class*="swatch-"] .swatch-black-red.navbar .nav > .active > a:hover, [class*="swatch-"] .swatch-black-red.navbar .nav > .current-menu-item > a
+[class*="swatch-"] .swatch-black-red.navbar .nav > .active > a:hover {
+  color: white;
+}
+.swatch-black-red .dropdown-menu, [class*="swatch-"] .swatch-black-red .dropdown-menu {
+  background: rgba(28, 30, 32, 0.95);
+  -moz-box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.1), 0px 4px 0px rgba(9, 10, 10, 0.3);
+  -webkit-box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.1), 0px 4px 0px rgba(9, 10, 10, 0.3);
+  box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.1), 0px 4px 0px rgba(9, 10, 10, 0.3);
+}
+.swatch-black-red .dropdown-menu > li > a, [class*="swatch-"] .swatch-black-red .dropdown-menu > li > a {
+  color: white;
+}
+.swatch-black-red .dropdown-menu a:hover, .swatch-black-red .dropdown-menu > .active > a, .swatch-black-red .dropdown-menu > .active > a:hover, .swatch-black-red .dropdown-menu > .active > a:focus, [class*="swatch-"] .swatch-black-red .dropdown-menu a:hover, [class*="swatch-"] .swatch-black-red .dropdown-menu > .active > a, [class*="swatch-"] .swatch-black-red .dropdown-menu > .active > a:hover, [class*="swatch-"] .swatch-black-red .dropdown-menu > .active > a:focus {
+  background: red;
+  color: #1c1e20;
+}
+.swatch-black-red .dropdown-menu a:hover i, .swatch-black-red .dropdown-menu > .active > a i, .swatch-black-red .dropdown-menu > .active > a:hover i, .swatch-black-red .dropdown-menu > .active > a:focus i, [class*="swatch-"] .swatch-black-red .dropdown-menu a:hover i, [class*="swatch-"] .swatch-black-red .dropdown-menu > .active > a i, [class*="swatch-"] .swatch-black-red .dropdown-menu > .active > a:hover i, [class*="swatch-"] .swatch-black-red .dropdown-menu > .active > a:focus i {
+  color: #1c1e20;
+}
+.swatch-black-red.navbar .nav > li > .dropdown-menu:after, .swatch-black-red.navbar .nav > li > .dropdown-menu:before, [class*="swatch-"] .swatch-black-red.navbar .nav > li > .dropdown-menu:after, [class*="swatch-"] .swatch-black-red.navbar .nav > li > .dropdown-menu:before {
+  display: none;
+}
+.swatch-black-red.navbar-scrolled, [class*="swatch-"] .swatch-black-red.navbar-scrolled {
+  background: rgba(28, 30, 32, 0.95);
+}
+.swatch-black-red.navbar-scrolled, [class*="swatch-"] .swatch-black-red.navbar-scrolled {
+  -moz-box-shadow: 0px 4px 0px rgba(9, 10, 10, 0.3);
+  -webkit-box-shadow: 0px 4px 0px rgba(9, 10, 10, 0.3);
+  box-shadow: 0px 4px 0px rgba(9, 10, 10, 0.3);
+}
+.swatch-black-red .dropdown-submenu > a:after, [class*="swatch-"] .swatch-black-red .dropdown-submenu > a:after {
+  border-left-color: white !important;
+}
+.swatch-black-red .dropdown-submenu > a:hover:after, [class*="swatch-"] .swatch-black-red .dropdown-submenu > a:hover:after {
+  border-left-color: #1c1e20 !important;
+}
+.swatch-black-red .dropdown-menu .divider, [class*="swatch-"] .swatch-black-red .dropdown-menu .divider {
+  background-color: rgba(0, 0, 0, 0.07);
+}
+.swatch-black-red.navbar .nav-highlight > a, [class*="swatch-"] .swatch-black-red.navbar .nav-highlight > a {
+  color: #1c1e20 !important;
+}
+.swatch-black-red.navbar .nav-highlight > a:after, [class*="swatch-"] .swatch-black-red.navbar .nav-highlight > a:after {
+  background: #e74c3c;
+}
+.swatch-black-red.navbar .nav-highlight > a:hover, [class*="swatch-"] .swatch-black-red.navbar .nav-highlight > a:hover {
+  color: #1c1e20 !important;
+}
+.swatch-black-red.navbar .nav-highlight > a:hover:after, [class*="swatch-"] .swatch-black-red.navbar .nav-highlight > a:hover:after {
+  background: rgba(231, 76, 60, 0.8);
+}
+.swatch-black-red.navbar li.nav-highlight-ghost > a, [class*="swatch-"] .swatch-black-red.navbar li.nav-highlight-ghost > a {
+  color: #e74c3c;
+}
+.swatch-black-red.navbar li.nav-highlight-ghost > a:after, [class*="swatch-"] .swatch-black-red.navbar li.nav-highlight-ghost > a:after {
+  border: 1px solid #e74c3c;
+}
+.swatch-black-red.navbar li.nav-highlight-ghost > a:hover, [class*="swatch-"] .swatch-black-red.navbar li.nav-highlight-ghost > a:hover {
+  color: rgba(231, 76, 60, 0.8);
+}
+.swatch-black-red.navbar li.nav-highlight-ghost > a:hover:after, [class*="swatch-"] .swatch-black-red.navbar li.nav-highlight-ghost > a:hover:after {
+  border-color: rgba(231, 76, 60, 0.8);
+}
+@media (max-width: 979px) {
+  .swatch-black-red.navbar .nav > li > a, [class*="swatch-"] .swatch-black-red.navbar .nav > li > a {
+    border-radius: 0;
+  }
+  .swatch-black-red.navbar .nav > li > a:hover, [class*="swatch-"] .swatch-black-red.navbar .nav > li > a:hover {
+    background: #101112;
+    color: white;
+  }
+  .swatch-black-red.navbar .dropdown-menu, [class*="swatch-"] .swatch-black-red.navbar .dropdown-menu {
+    background: #101112;
+    border-radius: 0;
+    box-shadow: none;
+  }
+  .swatch-black-red.navbar .dropdown-menu > li > a, [class*="swatch-"] .swatch-black-red.navbar .dropdown-menu > li > a {
+    border-radius: 0;
+    color: white;
+  }
+  .swatch-black-red.navbar .dropdown-menu li > a:hover, .swatch-black-red.navbar .dropdown-menu li > a:focus, .swatch-black-red.navbar .dropdown-menu li.active > a, [class*="swatch-"] .swatch-black-red.navbar .dropdown-menu li > a:hover, [class*="swatch-"] .swatch-black-red.navbar .dropdown-menu li > a:focus, [class*="swatch-"] .swatch-black-red.navbar .dropdown-menu li.active > a {
+    background: #090a0a;
+  }
+  .swatch-black-red .dropdown-submenu > ul > li > a, [class*="swatch-"] .swatch-black-red .dropdown-submenu > ul > li > a {
+    background: #040405;
+  }
+  .swatch-black-red .dropdown-submenu > ul > li > a:hover, [class*="swatch-"] .swatch-black-red .dropdown-submenu > ul > li > a:hover {
+    background: #101112;
+  }
+  .swatch-black-red .dropdown-submenu > a:after, [class*="swatch-"] .swatch-black-red .dropdown-submenu > a:after {
+    border-left-color: transparent !important;
+    border-top-color: white !important;
+  }
+  .swatch-black-red.navbar .nav-highlight > a, [class*="swatch-"] .swatch-black-red.navbar .nav-highlight > a {
+    color: #e74c3c !important;
+  }
+  .swatch-black-red.navbar .nav-highlight > a:after, [class*="swatch-"] .swatch-black-red.navbar .nav-highlight > a:after {
+    background: transparent;
+  }
+  .swatch-black-red.navbar .nav-highlight > a:hover, [class*="swatch-"] .swatch-black-red.navbar .nav-highlight > a:hover {
+    color: #e74c3c !important;
+  }
+  .swatch-black-red.navbar .nav-highlight > a:hover:after, [class*="swatch-"] .swatch-black-red.navbar .nav-highlight > a:hover:after {
+    background: transparent;
+  }
+}
+.swatch-black-red .pagination > li > a, [class*="swatch-"] .swatch-black-red .pagination > li > a {
+  background: red;
+  color: white;
+}
+.swatch-black-red .pagination > .active > a, .swatch-black-red .pagination > .active > span, .swatch-black-red .pagination > li > a:hover, [class*="swatch-"] .swatch-black-red .pagination > .active > a, [class*="swatch-"] .swatch-black-red .pagination > .active > span, [class*="swatch-"] .swatch-black-red .pagination > li > a:hover {
+  background: rgba(255, 0, 0, 0.8);
+}
+.swatch-black-red .pagination > .active > a i, .swatch-black-red .pagination > .active > span i, .swatch-black-red .pagination > li > a:hover i, [class*="swatch-"] .swatch-black-red .pagination > .active > a i, [class*="swatch-"] .swatch-black-red .pagination > .active > span i, [class*="swatch-"] .swatch-black-red .pagination > li > a:hover i {
+  color: white;
+}
+.swatch-black-red .pagination > li:first-child i, [class*="swatch-"] .swatch-black-red .pagination > li:first-child i {
+  color: white;
+}
+.swatch-black-red .pagination > li:first-child a:after, [class*="swatch-"] .swatch-black-red .pagination > li:first-child a:after {
+  border-right-color: red;
+}
+.swatch-black-red .pagination > li:first-child a:hover, [class*="swatch-"] .swatch-black-red .pagination > li:first-child a:hover {
+  background: rgba(255, 0, 0, 0.8);
+}
+.swatch-black-red .pagination > li:first-child a:hover:after, [class*="swatch-"] .swatch-black-red .pagination > li:first-child a:hover:after {
+  border-right-color: rgba(255, 0, 0, 0.8);
+}
+.swatch-black-red .pagination > li:last-child i, [class*="swatch-"] .swatch-black-red .pagination > li:last-child i {
+  color: white;
+}
+.swatch-black-red .pagination > li:last-child a:after, [class*="swatch-"] .swatch-black-red .pagination > li:last-child a:after {
+  border-left-color: red;
+}
+.swatch-black-red .pagination > li:last-child a:hover, [class*="swatch-"] .swatch-black-red .pagination > li:last-child a:hover {
+  background: rgba(255, 0, 0, 0.8);
+}
+.swatch-black-red .pagination > li:last-child a:hover:after, [class*="swatch-"] .swatch-black-red .pagination > li:last-child a:hover:after {
+  border-left-color: rgba(255, 0, 0, 0.8);
+}
+.swatch-black-red .tooltip-inner, [class*="swatch-"] .swatch-black-red .tooltip-inner {
+  background-color: red;
+  color: #1c1e20;
+}
+.swatch-black-red .tooltip.in, [class*="swatch-"] .swatch-black-red .tooltip.in {
+  opacity: 1;
+}
+.swatch-black-red .tooltip.top .tooltip-arrow, [class*="swatch-"] .swatch-black-red .tooltip.top .tooltip-arrow {
+  border-top-color: red;
+}
+.swatch-black-red .tooltip.right .tooltip-arrow, [class*="swatch-"] .swatch-black-red .tooltip.right .tooltip-arrow {
+  border-right-color: red;
+}
+.swatch-black-red .tooltip.left .tooltip-arrow, [class*="swatch-"] .swatch-black-red .tooltip.left .tooltip-arrow {
+  border-left-color: red;
+}
+.swatch-black-red .tooltip.bottom .tooltip-arrow, [class*="swatch-"] .swatch-black-red .tooltip.bottom .tooltip-arrow {
+  border-bottom-color: red;
+}
+.swatch-black-red .progress, [class*="swatch-"] .swatch-black-red .progress {
+  background: rgba(0, 0, 0, 0.07);
+  box-shadow: none;
+}
+.swatch-black-red .progress .progress-bar-primary, [class*="swatch-"] .swatch-black-red .progress .progress-bar-primary {
+  background: red;
+  box-shadow: none;
+}
+.swatch-black-red .progress .progress-bar-primary span, [class*="swatch-"] .swatch-black-red .progress .progress-bar-primary span {
+  color: white;
+}
+.swatch-black-red .badge, [class*="swatch-"] .swatch-black-red .badge {
+  background: red;
+  color: #1c1e20;
+}
+.swatch-black-red .tab-content, .swatch-black-red .nav-tabs .active a, .swatch-black-red .tab-content, .swatch-black-red .nav-tabs .active a:hover, [class*="swatch-"] .swatch-black-red .tab-content, [class*="swatch-"] .swatch-black-red .nav-tabs .active a, [class*="swatch-"] .swatch-black-red .tab-content, [class*="swatch-"] .swatch-black-red .nav-tabs .active a:hover {
+  background: red;
+}
+.swatch-black-red .nav-tabs > li > a:hover, .swatch-black-red .nav-tabs > li > a:focus, [class*="swatch-"] .swatch-black-red .nav-tabs > li > a:hover, [class*="swatch-"] .swatch-black-red .nav-tabs > li > a:focus {
+  color: #1c1e20;
+  background-color: red;
+}
+.swatch-black-red .nav-tabs > li.active > a, [class*="swatch-"] .swatch-black-red .nav-tabs > li.active > a {
+  color: #1c1e20;
+}
+.swatch-black-red .nav-tabs > li.active > a:hover, [class*="swatch-"] .swatch-black-red .nav-tabs > li.active > a:hover {
+  color: #1c1e20;
+}
+.swatch-black-red .nav-pills > .active > a, .swatch-black-red .nav-pills > .active > a:hover, .swatch-black-red .nav-pills > li > a:hover, [class*="swatch-"] .swatch-black-red .nav-pills > .active > a, [class*="swatch-"] .swatch-black-red .nav-pills > .active > a:hover, [class*="swatch-"] .swatch-black-red .nav-pills > li > a:hover {
+  background: red;
+  color: #1c1e20;
+}
+.swatch-black-red .nav-pills > .active > a .badge, .swatch-black-red .nav-pills > .active > a:hover .badge, .swatch-black-red .nav-pills > li > a:hover .badge, [class*="swatch-"] .swatch-black-red .nav-pills > .active > a .badge, [class*="swatch-"] .swatch-black-red .nav-pills > .active > a:hover .badge, [class*="swatch-"] .swatch-black-red .nav-pills > li > a:hover .badge {
+  background: #1c1e20;
+  color: red;
+}
+.swatch-black-red .nav-pills > .active > a:hover, .swatch-black-red .nav-pills > .active > a:hover:hover, .swatch-black-red .nav-pills > li > a:hover:hover, [class*="swatch-"] .swatch-black-red .nav-pills > .active > a:hover, [class*="swatch-"] .swatch-black-red .nav-pills > .active > a:hover:hover, [class*="swatch-"] .swatch-black-red .nav-pills > li > a:hover:hover {
+  color: #1c1e20;
+}
+.swatch-black-red .tab-pane, .swatch-black-red .tab-pane.active, [class*="swatch-"] .swatch-black-red .tab-pane, [class*="swatch-"] .swatch-black-red .tab-pane.active {
+  color: #1c1e20;
+}
+.swatch-black-red .tab-pane h1, .swatch-black-red .tab-pane h2, .swatch-black-red .tab-pane h3, .swatch-black-red .tab-pane h4, .swatch-black-red .tab-pane h5, .swatch-black-red .tab-pane h6, .swatch-black-red .tab-pane a, .swatch-black-red .tab-pane p, .swatch-black-red .tab-pane.active h1, .swatch-black-red .tab-pane.active h2, .swatch-black-red .tab-pane.active h3, .swatch-black-red .tab-pane.active h4, .swatch-black-red .tab-pane.active h5, .swatch-black-red .tab-pane.active h6, .swatch-black-red .tab-pane.active a, .swatch-black-red .tab-pane.active p, [class*="swatch-"] .swatch-black-red .tab-pane h1, [class*="swatch-"] .swatch-black-red .tab-pane h2, [class*="swatch-"] .swatch-black-red .tab-pane h3, [class*="swatch-"] .swatch-black-red .tab-pane h4, [class*="swatch-"] .swatch-black-red .tab-pane h5, [class*="swatch-"] .swatch-black-red .tab-pane h6, [class*="swatch-"] .swatch-black-red .tab-pane a, [class*="swatch-"] .swatch-black-red .tab-pane p, [class*="swatch-"] .swatch-black-red .tab-pane.active h1, [class*="swatch-"] .swatch-black-red .tab-pane.active h2, [class*="swatch-"] .swatch-black-red .tab-pane.active h3, [class*="swatch-"] .swatch-black-red .tab-pane.active h4, [class*="swatch-"] .swatch-black-red .tab-pane.active h5, [class*="swatch-"] .swatch-black-red .tab-pane.active h6, [class*="swatch-"] .swatch-black-red .tab-pane.active a, [class*="swatch-"] .swatch-black-red .tab-pane.active p {
+  color: #1c1e20;
+}
+.swatch-black-red .tab-pane .btn, .swatch-black-red .tab-pane.active .btn, [class*="swatch-"] .swatch-black-red .tab-pane .btn, [class*="swatch-"] .swatch-black-red .tab-pane.active .btn {
+  color: red !important;
+  background: #1c1e20 !important;
+}
+.swatch-black-red .tab-pane .tooltip-inner, .swatch-black-red .tab-pane.active .tooltip-inner, [class*="swatch-"] .swatch-black-red .tab-pane .tooltip-inner, [class*="swatch-"] .swatch-black-red .tab-pane.active .tooltip-inner {
+  background-color: #1c1e20;
+  color: red;
+}
+.swatch-black-red .tab-pane .tooltip.top .tooltip-arrow, .swatch-black-red .tab-pane.active .tooltip.top .tooltip-arrow, [class*="swatch-"] .swatch-black-red .tab-pane .tooltip.top .tooltip-arrow, [class*="swatch-"] .swatch-black-red .tab-pane.active .tooltip.top .tooltip-arrow {
+  border-top-color: #1c1e20;
+}
+.swatch-black-red .tab-pane .tooltip.right .tooltip-arrow, .swatch-black-red .tab-pane.active .tooltip.right .tooltip-arrow, [class*="swatch-"] .swatch-black-red .tab-pane .tooltip.right .tooltip-arrow, [class*="swatch-"] .swatch-black-red .tab-pane.active .tooltip.right .tooltip-arrow {
+  border-right-color: #1c1e20;
+}
+.swatch-black-red .tab-pane .tooltip.left .tooltip-arrow, .swatch-black-red .tab-pane.active .tooltip.left .tooltip-arrow, [class*="swatch-"] .swatch-black-red .tab-pane .tooltip.left .tooltip-arrow, [class*="swatch-"] .swatch-black-red .tab-pane.active .tooltip.left .tooltip-arrow {
+  border-left-color: #1c1e20;
+}
+.swatch-black-red .tab-pane .tooltip.bottom .tooltip-arrow, .swatch-black-red .tab-pane.active .tooltip.bottom .tooltip-arrow, [class*="swatch-"] .swatch-black-red .tab-pane .tooltip.bottom .tooltip-arrow, [class*="swatch-"] .swatch-black-red .tab-pane.active .tooltip.bottom .tooltip-arrow {
+  border-bottom-color: #1c1e20;
+}
+.swatch-black-red .docs-sidebar-nav, .swatch-black-red.docs-sidebar-nav, [class*="swatch-"] .swatch-black-red .docs-sidebar-nav, [class*="swatch-"] .swatch-black-red.docs-sidebar-nav {
+  background: none;
+}
+.swatch-black-red .docs-sidebar-nav li a, .swatch-black-red.docs-sidebar-nav li a, [class*="swatch-"] .swatch-black-red .docs-sidebar-nav li a, [class*="swatch-"] .swatch-black-red.docs-sidebar-nav li a {
+  background: rgba(0, 0, 0, 0.07);
+}
+.swatch-black-red .docs-sidebar-nav li.active a, .swatch-black-red.docs-sidebar-nav li.active a, [class*="swatch-"] .swatch-black-red .docs-sidebar-nav li.active a, [class*="swatch-"] .swatch-black-red.docs-sidebar-nav li.active a {
+  background: #e74c3c;
+  color: #1c1e20;
+}
+.swatch-black-red .panel, .swatch-black-red .well, [class*="swatch-"] .swatch-black-red .panel, [class*="swatch-"] .swatch-black-red .well {
+  background: rgba(0, 0, 0, 0.07);
+}
+.swatch-black-red .panel-heading, [class*="swatch-"] .swatch-black-red .panel-heading {
+  background: red;
+}
+.swatch-black-red .panel-heading a, .swatch-black-red .panel-heading .panel-title, [class*="swatch-"] .swatch-black-red .panel-heading a, [class*="swatch-"] .swatch-black-red .panel-heading .panel-title {
+  color: #1c1e20;
+  text-decoration: none;
+}
+.swatch-black-red .carousel-indicators li, [class*="swatch-"] .swatch-black-red .carousel-indicators li {
+  background-color: rgba(255, 0, 0, 0.5);
+}
+.swatch-black-red .carousel-indicators li.active, [class*="swatch-"] .swatch-black-red .carousel-indicators li.active {
+  background-color: red;
+}
+.swatch-black-red .thumbnail, [class*="swatch-"] .swatch-black-red .thumbnail {
+  background: rgba(0, 0, 0, 0.07);
+}
+.swatch-black-red .thumbnail:hover, [class*="swatch-"] .swatch-black-red .thumbnail:hover {
+  background: red;
+  color: #1c1e20;
+}
+.swatch-black-red .overlay, [class*="swatch-"] .swatch-black-red .overlay {
+  background: rgba(0, 0, 0, 0.07) !important;
+}
+.swatch-black-red .post-media, [class*="swatch-"] .swatch-black-red .post-media {
+  background-color: rgba(0, 0, 0, 0.07) !important;
+}
+.swatch-black-red .media-inner:after, [class*="swatch-"] .swatch-black-red .media-inner:after {
+  background: red;
+}
+.swatch-black-red .social-icons li a, .swatch-black-red .social-share li a, [class*="swatch-"] .swatch-black-red .social-icons li a, [class*="swatch-"] .swatch-black-red .social-share li a {
+  background-color: red;
+}
+.swatch-black-red .social-icons li a i, .swatch-black-red .social-share li a i, [class*="swatch-"] .swatch-black-red .social-icons li a i, [class*="swatch-"] .swatch-black-red .social-share li a i {
+  color: #1c1e20;
+}
+.swatch-black-red .social-icons li a:not([data-iconcolor]):hover, .swatch-black-red .social-share li a:not([data-iconcolor]):hover, [class*="swatch-"] .swatch-black-red .social-icons li a:not([data-iconcolor]):hover, [class*="swatch-"] .swatch-black-red .social-share li a:not([data-iconcolor]):hover {
+  background-color: rgba(255, 0, 0, 0.8);
+}
+.swatch-black-red .social-simple li a i, [class*="swatch-"] .swatch-black-red .social-simple li a i {
+  color: red;
+}
+.swatch-black-red .social-simple li a:not([data-iconcolor]):hover i, [class*="swatch-"] .swatch-black-red .social-simple li a:not([data-iconcolor]):hover i {
+  color: rgba(255, 0, 0, 0.8);
+}
+.swatch-black-red .grid-post .post-extras:before, [class*="swatch-"] .swatch-black-red .grid-post .post-extras:before {
+  background: #1c1e20;
+}
+.swatch-black-red .post-extras i, [class*="swatch-"] .swatch-black-red .post-extras i {
+  color: #e74c3c;
+}
+.swatch-black-red .list-fancy-icons li, .swatch-black-red.list-fancy-icons li, .swatch-black-red .list-fancy-icons .list-item, .swatch-black-red.list-fancy-icons .list-item, [class*="swatch-"] .swatch-black-red .list-fancy-icons li, [class*="swatch-"] .swatch-black-red.list-fancy-icons li, [class*="swatch-"] .swatch-black-red .list-fancy-icons .list-item, [class*="swatch-"] .swatch-black-red.list-fancy-icons .list-item {
+  background: #1c1e20;
+}
+.swatch-black-red .list-fancy-icons li .round, .swatch-black-red .list-fancy-icons li .square, .swatch-black-red.list-fancy-icons li .round, .swatch-black-red.list-fancy-icons li .square, .swatch-black-red .list-fancy-icons .list-item .round, .swatch-black-red .list-fancy-icons .list-item .square, .swatch-black-red.list-fancy-icons .list-item .round, .swatch-black-red.list-fancy-icons .list-item .square, [class*="swatch-"] .swatch-black-red .list-fancy-icons li .round, [class*="swatch-"] .swatch-black-red .list-fancy-icons li .square, [class*="swatch-"] .swatch-black-red.list-fancy-icons li .round, [class*="swatch-"] .swatch-black-red.list-fancy-icons li .square, [class*="swatch-"] .swatch-black-red .list-fancy-icons .list-item .round, [class*="swatch-"] .swatch-black-red .list-fancy-icons .list-item .square, [class*="swatch-"] .swatch-black-red.list-fancy-icons .list-item .round, [class*="swatch-"] .swatch-black-red.list-fancy-icons .list-item .square {
+  background: red;
+}
+.swatch-black-red .list-fancy-icons li i, .swatch-black-red.list-fancy-icons li i, .swatch-black-red .list-fancy-icons .list-item i, .swatch-black-red.list-fancy-icons .list-item i, [class*="swatch-"] .swatch-black-red .list-fancy-icons li i, [class*="swatch-"] .swatch-black-red.list-fancy-icons li i, [class*="swatch-"] .swatch-black-red .list-fancy-icons .list-item i, [class*="swatch-"] .swatch-black-red.list-fancy-icons .list-item i {
+  color: #1c1e20;
+}
+.swatch-black-red .box-inner, [class*="swatch-"] .swatch-black-red .box-inner {
+  background: red;
+}
+.swatch-black-red .box-inner i, [class*="swatch-"] .swatch-black-red .box-inner i {
+  color: #1c1e20;
+}
+.swatch-black-red .box-badge, [class*="swatch-"] .swatch-black-red .box-badge {
+  background: rgba(255, 0, 0, 0.9);
+  color: #1c1e20;
+}
+.swatch-black-red .bordered:after, [class*="swatch-"] .swatch-black-red .bordered:after {
+  background: red;
+}
+.swatch-black-red .vertical-icon-border [class^="col-md"]:first-child, .swatch-black-red .horizontal-icon-border [class^="box-"]:before, [class*="swatch-"] .swatch-black-red .vertical-icon-border [class^="col-md"]:first-child, [class*="swatch-"] .swatch-black-red .horizontal-icon-border [class^="box-"]:before {
+  border-color: red;
+}
+.swatch-black-red #infscr-loading, [class*="swatch-"] .swatch-black-red #infscr-loading {
+  background: red;
+  color: #1c1e20;
+}
+.swatch-black-red .counter .value, [class*="swatch-"] .swatch-black-red .counter .value {
+  color: white;
+}
+.swatch-black-red .counter.underline:after, [class*="swatch-"] .swatch-black-red .counter.underline:after {
+  background: red;
+}
+.swatch-black-red .countdown.underline b:before, [class*="swatch-"] .swatch-black-red .countdown.underline b:before {
+  background: red;
+}
+.swatch-black-red .mejs-audio, [class*="swatch-"] .swatch-black-red .mejs-audio {
+  background-color: red;
+  color: #1c1e20;
+}
+.swatch-black-red .mejs-container .mejs-controls .mejs-time span, [class*="swatch-"] .swatch-black-red .mejs-container .mejs-controls .mejs-time span {
+  color: #1c1e20;
+}
+.swatch-black-red .mejs-controls .mejs-button button:hover, [class*="swatch-"] .swatch-black-red .mejs-controls .mejs-button button:hover {
+  background-color: transparent;
+}
+.swatch-black-red .mejs-controls .mejs-time-rail .mejs-time-loaded, [class*="swatch-"] .swatch-black-red .mejs-controls .mejs-time-rail .mejs-time-loaded {
+  background-color: #1c1e20;
+}
+.swatch-black-red .mejs-controls .mejs-time-rail .mejs-time-current, .swatch-black-red .mejs-controls .mejs-horizontal-volume-slider .mejs-horizontal-volume-current, [class*="swatch-"] .swatch-black-red .mejs-controls .mejs-time-rail .mejs-time-current, [class*="swatch-"] .swatch-black-red .mejs-controls .mejs-horizontal-volume-slider .mejs-horizontal-volume-current {
+  background-color: rgba(0, 0, 0, 0.07);
+}
+.swatch-black-red .hex, [class*="swatch-"] .swatch-black-red .hex {
+  background-color: red;
+  color: #1c1e20;
+}
+.swatch-black-red .hex a, .swatch-black-red .hex i, [class*="swatch-"] .swatch-black-red .hex a, [class*="swatch-"] .swatch-black-red .hex i {
+  color: #1c1e20;
+}
+.swatch-black-red .hex a:hover, .swatch-black-red .hex:hover, [class*="swatch-"] .swatch-black-red .hex a:hover, [class*="swatch-"] .swatch-black-red .hex:hover {
+  color: #1c1e20;
+}
+.swatch-black-red .hex:before, [class*="swatch-"] .swatch-black-red .hex:before {
+  border-bottom-color: red;
+}
+.swatch-black-red .hex:after, [class*="swatch-"] .swatch-black-red .hex:after {
+  border-top-color: red;
+}
+.swatch-black-red .hex-left:after, .swatch-black-red .hex-left:before, .swatch-black-red .hex-right:after, .swatch-black-red .hex-right:before, [class*="swatch-"] .swatch-black-red .hex-left:after, [class*="swatch-"] .swatch-black-red .hex-left:before, [class*="swatch-"] .swatch-black-red .hex-right:after, [class*="swatch-"] .swatch-black-red .hex-right:before {
+  background-color: #1c1e20;
+}
+.swatch-black-red .pricing-head, .swatch-black-red .pricing-body, [class*="swatch-"] .swatch-black-red .pricing-head, [class*="swatch-"] .swatch-black-red .pricing-body {
+  background: red;
+  color: white;
+}
+.swatch-black-red .pricing-head h4, .swatch-black-red .pricing-head small, .swatch-black-red .pricing-body h4, .swatch-black-red .pricing-body small, [class*="swatch-"] .swatch-black-red .pricing-head h4, [class*="swatch-"] .swatch-black-red .pricing-head small, [class*="swatch-"] .swatch-black-red .pricing-body h4, [class*="swatch-"] .swatch-black-red .pricing-body small {
+  color: white;
+}
+.swatch-black-red .pricing-list li, [class*="swatch-"] .swatch-black-red .pricing-list li {
+  border-color: rgba(0, 0, 0, 0.07);
+}
+.swatch-black-red .pricing-col .btn-primary, [class*="swatch-"] .swatch-black-red .pricing-col .btn-primary {
+  background: white;
+  color: red;
+}
+.swatch-black-red .pricing-col .btn-primary:hover, [class*="swatch-"] .swatch-black-red .pricing-col .btn-primary:hover {
+  background: #f0f0f0;
+}
+.swatch-black-red .flexslider figcaption, [class*="swatch-"] .swatch-black-red .flexslider figcaption {
+  background: rgba(28, 30, 32, 0.9);
+  -moz-box-shadow: 0px 4px 0px rgba(9, 10, 10, 0.3);
+  -webkit-box-shadow: 0px 4px 0px rgba(9, 10, 10, 0.3);
+  box-shadow: 0px 4px 0px rgba(9, 10, 10, 0.3);
+}
+.swatch-black-red .flex-directions-fancy .flex-direction-nav a, [class*="swatch-"] .swatch-black-red .flex-directions-fancy .flex-direction-nav a {
+  background: red;
+  color: #1c1e20;
+}
+.swatch-black-red .flex-control-nav a, [class*="swatch-"] .swatch-black-red .flex-control-nav a {
+  background: rgba(255, 0, 0, 0.5);
+}
+.swatch-black-red .flex-control-nav a.flex-active, [class*="swatch-"] .swatch-black-red .flex-control-nav a.flex-active {
+  background: red;
+}
+.swatch-black-red .sidebar, [class*="swatch-"] .swatch-black-red .sidebar {
+  color: white;
+}
+.swatch-black-red .sidebar h3, [class*="swatch-"] .swatch-black-red .sidebar h3 {
+  color: white;
+}
+.swatch-black-red .sidebar a, [class*="swatch-"] .swatch-black-red .sidebar a {
+  color: white;
+}
+.swatch-black-red .sidebar a:hover, [class*="swatch-"] .swatch-black-red .sidebar a:hover {
+  color: #e74c3c;
+}
+.swatch-black-red .widget_search .btn, [class*="swatch-"] .swatch-black-red .widget_search .btn {
+  background: #cddadd;
+}
+.swatch-black-red .widget_search .btn i, [class*="swatch-"] .swatch-black-red .widget_search .btn i {
+  color: red !important;
+}
+.swatch-black-red .sidebar-widget .post-icon, [class*="swatch-"] .swatch-black-red .sidebar-widget .post-icon {
+  background: red;
+}
+.swatch-black-red .sidebar-widget .post-icon i, [class*="swatch-"] .swatch-black-red .sidebar-widget .post-icon i {
+  color: #1c1e20;
+}
+.swatch-black-red .widget_tag_cloud ul a, [class*="swatch-"] .swatch-black-red .widget_tag_cloud ul a {
+  background: red;
+  color: #1c1e20;
+}
+.swatch-black-red .widget_tag_cloud ul a:hover, [class*="swatch-"] .swatch-black-red .widget_tag_cloud ul a:hover {
+  background: rgba(255, 0, 0, 0.9);
+  color: #1c1e20;
+}
+.swatch-black-red .widget_calendar tbody a, [class*="swatch-"] .swatch-black-red .widget_calendar tbody a {
+  background: red;
+  color: #1c1e20;
+}
+.swatch-black-red .widget_calendar tbody a:hover, [class*="swatch-"] .swatch-black-red .widget_calendar tbody a:hover {
+  background: #db0000;
+  color: #1c1e20;
+}
+.swatch-black-red .widget_calendar tfoot, [class*="swatch-"] .swatch-black-red .widget_calendar tfoot {
+  background: rgba(0, 0, 0, 0.07);
+}
+.swatch-black-red .widget_nav_menu .sub-menu, [class*="swatch-"] .swatch-black-red .widget_nav_menu .sub-menu {
+  border-color: rgba(0, 0, 0, 0.07);
+}
+.swatch-black-red .widget_oxy_twitter li:before, [class*="swatch-"] .swatch-black-red .widget_oxy_twitter li:before {
+  color: red;
+}
+.swatch-black-red .button, [class*="swatch-"] .swatch-black-red .button {
+  background: red;
+  color: white;
+}
+.swatch-black-red .button:hover, [class*="swatch-"] .swatch-black-red .button:hover {
+  background: rgba(255, 0, 0, 0.9);
+  color: white;
+}
+.swatch-black-red .woocommerce-breadcrumb, [class*="swatch-"] .swatch-black-red .woocommerce-breadcrumb {
+  color: white;
+}
+.swatch-black-red .woocommerce-breadcrumb a, [class*="swatch-"] .swatch-black-red .woocommerce-breadcrumb a {
+  color: white;
+}
+.swatch-black-red .woocommerce-breadcrumb a:hover, [class*="swatch-"] .swatch-black-red .woocommerce-breadcrumb a:hover {
+  color: white;
+}
+.swatch-black-red .woocommerce-breadcrumb span:nth-child(1), [class*="swatch-"] .swatch-black-red .woocommerce-breadcrumb span:nth-child(1) {
+  background: red;
+}
+.swatch-black-red .woocommerce-breadcrumb span:nth-child(1):after, [class*="swatch-"] .swatch-black-red .woocommerce-breadcrumb span:nth-child(1):after {
+  border-left-color: red;
+}
+.swatch-black-red .woocommerce-breadcrumb span:nth-child(1):hover, [class*="swatch-"] .swatch-black-red .woocommerce-breadcrumb span:nth-child(1):hover {
+  background: #e60000;
+}
+.swatch-black-red .woocommerce-breadcrumb span:nth-child(1):hover:after, [class*="swatch-"] .swatch-black-red .woocommerce-breadcrumb span:nth-child(1):hover:after {
+  border-left-color: #e60000;
+}
+.swatch-black-red .woocommerce-breadcrumb span:nth-child(2), [class*="swatch-"] .swatch-black-red .woocommerce-breadcrumb span:nth-child(2) {
+  background: #ff1a1a;
+}
+.swatch-black-red .woocommerce-breadcrumb span:nth-child(2):after, [class*="swatch-"] .swatch-black-red .woocommerce-breadcrumb span:nth-child(2):after {
+  border-left-color: #ff1a1a;
+}
+.swatch-black-red .woocommerce-breadcrumb span:nth-child(2):hover, [class*="swatch-"] .swatch-black-red .woocommerce-breadcrumb span:nth-child(2):hover {
+  background: #ff0f0f;
+}
+.swatch-black-red .woocommerce-breadcrumb span:nth-child(2):hover:after, [class*="swatch-"] .swatch-black-red .woocommerce-breadcrumb span:nth-child(2):hover:after {
+  border-left-color: #ff0f0f;
+}
+.swatch-black-red .woocommerce-breadcrumb span:nth-child(3), [class*="swatch-"] .swatch-black-red .woocommerce-breadcrumb span:nth-child(3) {
+  background: #ff3333;
+}
+.swatch-black-red .woocommerce-breadcrumb span:nth-child(3):after, [class*="swatch-"] .swatch-black-red .woocommerce-breadcrumb span:nth-child(3):after {
+  border-left-color: #ff3333;
+}
+.swatch-black-red .woocommerce-breadcrumb span:nth-child(3):hover, [class*="swatch-"] .swatch-black-red .woocommerce-breadcrumb span:nth-child(3):hover {
+  background: #ff2424;
+}
+.swatch-black-red .woocommerce-breadcrumb span:nth-child(3):hover:after, [class*="swatch-"] .swatch-black-red .woocommerce-breadcrumb span:nth-child(3):hover:after {
+  border-left-color: #ff2424;
+}
+.swatch-black-red .woocommerce-breadcrumb span:nth-child(4), [class*="swatch-"] .swatch-black-red .woocommerce-breadcrumb span:nth-child(4) {
+  background: #ff4d4d;
+}
+.swatch-black-red .woocommerce-breadcrumb span:nth-child(4):after, [class*="swatch-"] .swatch-black-red .woocommerce-breadcrumb span:nth-child(4):after {
+  border-left-color: #ff4d4d;
+}
+.swatch-black-red .woocommerce-breadcrumb span:nth-child(4):hover, [class*="swatch-"] .swatch-black-red .woocommerce-breadcrumb span:nth-child(4):hover {
+  background: #ff3d3d;
+}
+.swatch-black-red .woocommerce-breadcrumb span:nth-child(4):hover:after, [class*="swatch-"] .swatch-black-red .woocommerce-breadcrumb span:nth-child(4):hover:after {
+  border-left-color: #ff3d3d;
+}
+.swatch-black-red .woocommerce-breadcrumb span:nth-child(5), [class*="swatch-"] .swatch-black-red .woocommerce-breadcrumb span:nth-child(5) {
+  background: #ff6666;
+}
+.swatch-black-red .woocommerce-breadcrumb span:nth-child(5):after, [class*="swatch-"] .swatch-black-red .woocommerce-breadcrumb span:nth-child(5):after {
+  border-left-color: #ff6666;
+}
+.swatch-black-red .woocommerce-breadcrumb span:nth-child(5):hover, [class*="swatch-"] .swatch-black-red .woocommerce-breadcrumb span:nth-child(5):hover {
+  background: #ff5757;
+}
+.swatch-black-red .woocommerce-breadcrumb span:nth-child(5):hover:after, [class*="swatch-"] .swatch-black-red .woocommerce-breadcrumb span:nth-child(5):hover:after {
+  border-left-color: #ff5757;
+}
+.swatch-black-red .woocommerce-ordering select, [class*="swatch-"] .swatch-black-red .woocommerce-ordering select {
+  background: red;
+  color: white;
+}
+.swatch-black-red .woocommerce-ordering .select-wrap:after, [class*="swatch-"] .swatch-black-red .woocommerce-ordering .select-wrap:after {
+  color: white;
+}
+.swatch-black-red .product .product-title:after, [class*="swatch-"] .swatch-black-red .product .product-title:after {
+  background: red;
+}
+.swatch-black-red .star-rating, [class*="swatch-"] .swatch-black-red .star-rating {
+  color: red;
+}
+.swatch-black-red .onsale, [class*="swatch-"] .swatch-black-red .onsale {
+  background: red;
+  color: white;
+}
+.swatch-black-red .page-numbers a, .swatch-black-red .page-numbers span, [class*="swatch-"] .swatch-black-red .page-numbers a, [class*="swatch-"] .swatch-black-red .page-numbers span {
+  color: white;
+}
+.swatch-black-red .page-numbers li, [class*="swatch-"] .swatch-black-red .page-numbers li {
+  background: red;
+}
+.swatch-black-red .page-numbers .current, .swatch-black-red .page-numbers li a:hover, [class*="swatch-"] .swatch-black-red .page-numbers .current, [class*="swatch-"] .swatch-black-red .page-numbers li a:hover {
+  background: rgba(0, 0, 0, 0.07);
+}
+.swatch-black-red .pager li > a:focus, [class*="swatch-"] .swatch-black-red .pager li > a:focus {
+  background: red;
+  color: white;
+}
+.swatch-black-red .product-category h3, [class*="swatch-"] .swatch-black-red .product-category h3 {
+  background: red;
+  color: #1c1e20;
+}
+.swatch-black-red .product-category h3 mark, [class*="swatch-"] .swatch-black-red .product-category h3 mark {
+  background: rgba(0, 0, 0, 0.07);
+  color: #1c1e20;
+}
+.swatch-black-red .product-nav a i, [class*="swatch-"] .swatch-black-red .product-nav a i {
+  background: red;
+  color: #1c1e20;
+}
+.swatch-black-red .product-images figcaption, [class*="swatch-"] .swatch-black-red .product-images figcaption {
+  box-shadow: none;
+  background: red;
+}
+.swatch-black-red .product-images figcaption i, [class*="swatch-"] .swatch-black-red .product-images figcaption i {
+  color: white;
+}
+.swatch-black-red .product-images .flex-active, [class*="swatch-"] .swatch-black-red .product-images .flex-active {
+  -moz-box-shadow: 0px 3px 0px red;
+  -webkit-box-shadow: 0px 3px 0px red;
+  box-shadow: 0px 3px 0px red;
+}
+.swatch-black-red .order_details, [class*="swatch-"] .swatch-black-red .order_details {
+  background: rgba(0, 0, 0, 0.07);
+}
+.swatch-black-red .order_details li, [class*="swatch-"] .swatch-black-red .order_details li {
+  border-color: rgba(26, 26, 26, 0.07);
+}
+.swatch-black-red .single-product-extras input, .swatch-black-red .single-product-extras textarea, [class*="swatch-"] .swatch-black-red .single-product-extras input, [class*="swatch-"] .swatch-black-red .single-product-extras textarea {
+  background: #1c1e20;
+  color: red;
+}
+.swatch-black-red .single-product-extras input[type="submit"]:hover, [class*="swatch-"] .swatch-black-red .single-product-extras input[type="submit"]:hover {
+  background: rgba(28, 30, 32, 0.9);
+  color: red;
+}
+.swatch-black-red #review_form:before, [class*="swatch-"] .swatch-black-red #review_form:before {
+  background: #cc0000;
+}
+.swatch-black-red.mini-cart-container.active, [class*="swatch-"] .swatch-black-red.mini-cart-container.active {
+  box-shadow: -10px 0px 0px rgba(9, 10, 10, 0.3);
+}
+.swatch-black-red .cart_list li, [class*="swatch-"] .swatch-black-red .cart_list li {
+  border-color: rgba(0, 0, 0, 0.07);
+}
+.swatch-black-red .cart-actions, [class*="swatch-"] .swatch-black-red .cart-actions {
+  background: #1c1e20;
+}
+.swatch-black-red .widget_product_tag_cloud a, [class*="swatch-"] .swatch-black-red .widget_product_tag_cloud a {
+  background: red;
+  color: #1c1e20;
+}
+.swatch-black-red .widget_product_tag_cloud a:hover, [class*="swatch-"] .swatch-black-red .widget_product_tag_cloud a:hover {
+  background: rgba(255, 0, 0, 0.9);
+  color: #1c1e20;
+}
+.swatch-black-red .product_list_widget .star-rating, [class*="swatch-"] .swatch-black-red .product_list_widget .star-rating {
+  color: #e74c3c;
+}
+.swatch-black-red .widget_price_filter .ui-slider .ui-slider-range, [class*="swatch-"] .swatch-black-red .widget_price_filter .ui-slider .ui-slider-range {
+  background: rgba(0, 0, 0, 0.07);
+}
+.swatch-black-red .widget_price_filter .ui-slider .ui-slider-handle, [class*="swatch-"] .swatch-black-red .widget_price_filter .ui-slider .ui-slider-handle {
+  background: red;
+}
+.swatch-black-red .widget_product_search form:after, [class*="swatch-"] .swatch-black-red .widget_product_search form:after {
+  color: #1c1e20;
+}

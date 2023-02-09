@@ -1,0 +1,253 @@
+
+.flex {
+	display: flex;
+	flex-wrap: wrap;
+}
+.flex.vcenter {
+	display: flex;
+	align-items: center;
+}
+.flex.center {
+	justify-content: center;
+}
+
+.mobile-struct {
+	width: 100%;
+	max-width: 360px;
+}
+.mockups {
+	position: absolute;
+	top: -100px;
+	left: -100px;
+}
+.main-page-content {
+	height: 100%;
+	position: relative;
+}
+.main-text-cont {
+	flex-direction: column;
+	font-size: 28px;
+	font-weight: 300;
+	position: absolute;
+	top: 50%;
+	transform: translateY(-50%);
+	-webkit-transform: translateY(-50%);
+	-moz-transform: translateY(-50%);
+}
+.colours .v {
+	color: #9400D3;
+}
+.colours .i {
+	color: #4B0082;
+}
+.colours .b {
+	color: #0000FF
+}
+.colours .g {
+	color: #00FF00;
+}
+.colours .y {
+	color: #FFFF00;
+}
+.colours .o {
+	color: #FF7F00;
+}
+.colours .r {
+	color: #FF0000;
+}
+.colours .p {
+	color: #800080;
+}
+.mockup-images {
+	position: absolute;
+	z-index: 40;
+}
+.technologies {
+	position: relative;
+	padding-top: 80px;
+}
+.technologies:after {
+	content: '';
+	display: block;
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	top: 0;
+	left: 0;
+}
+.technology-text ul {
+	margin: 0px;
+	padding: 0px;
+}
+.technology-text li {
+	margin-bottom: 5px;
+	list-style-type: none;
+}
+.technology-text h3 {
+	margin-bottom: 5px;
+	text-transform: uppercase;
+	font-family: Roboto, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	letter-spacing: 1px;
+	margin-top: 14px;
+}
+.technology-text ul li h3:before {
+	text-transform: uppercase;
+}
+.technology-names {
+}
+.technology-text {
+	margin-left: 0px;
+}
+.technology-names>span {
+	font-family: Consolas, Monaco, Lucida Console, Liberation Mono, DejaVu Sans Mono, Bitstream Vera Sans Mono, Courier New;
+	padding-top: 4px;
+	padding-bottom: 4px;
+	margin-right: 10px;
+	display: inline-block;
+	margin-bottom: 10px;
+	color: white;
+	border-bottom-left-radius: 5px;
+	border-bottom-right-radius: 5px;
+	border-top-left-radius: 5px;
+	border-top-right-radius: 5px;
+	font-size: 16px;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+.tech {
+	border: 2px solid ;
+	
+}
+
+.cred{
+	border-color: red;
+}
+.cblue{
+	border-color: blue;
+}
+
+.cgreen{
+	border-color: #9207F3;
+}
+
+.cwhite{
+	border-color: white;
+}
+
+.cyellow{
+	border-color: yellow;
+}
+
+.clime{
+	border-color: lime;
+}
+
+.caqua{
+	border-color: aqua;
+}
+
+.cfuchsia{
+	border-color: #FF00FF;
+}
+
+.cpurple{
+	border-color: red;
+}
+
+
+
+
+
+.tech-logo-cont>.logo {
+	width: 50%;
+	display: inline-block;
+	float: left;
+}
+.tech-logo-cont>.logo>img {
+	padding: 25px;
+}
+
+#tagcloud {
+	background: url('../images/design/vector/lap-s.png');
+	background-repeat: no-repeat;
+	background-position: center;
+}
+.code-play img {
+	width: 100%;
+}
+
+.shadow-grey {
+	box-shadow: 2px 2px 5px grey; 
+	color:black;
+}
+
+.shadow-black {
+	box-shadow: 2px 2px 5px black; 
+	     color: black;
+}
+
+#sticky {
+  position: relative;
+  background: #febf04; 
+  background: -moz-linear-gradient(top, #febf04 5%, #ffd65e 40%, #ffd65e 40%, #ffd65e 83%, #febf04 99%);
+  background: -webkit-linear-gradient(top, #febf04 5%,#ffd65e 40%,#ffd65e 40%,#ffd65e 83%,#febf04 99%); 
+  background: linear-gradient(to bottom, #febf04 5%,#ffd65e 40%,#ffd65e 40%,#ffd65e 83%,#febf04 99%); 
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#febf04', endColorstr='#febf04',GradientType=0 );
+  display: inline-block;
+  padding: 20px;
+  transition: .1s
+}
+#sticky textarea {
+  border: 0px;
+  min-width: 400px;
+  min-height: 120px;
+  max-width: 488px;
+  max-height: 390px;
+  background-color: transparent;
+  font-family: "Comic Sans MS", cursive;
+  color: #3d2d49;
+  font-size: 1.5em;
+  line-height: 140%;
+  min-height: 260px;
+  outline: none
+}
+[draggable=true] {
+    cursor: move;
+}
+#sticky:hover {
+}
+#sticky:before
+{
+  z-index: -1;
+  position: absolute;
+  content: "";
+  bottom: 20px;
+  left: 12px;
+  width: 50%;
+  top: 80%;
+  max-width: 300px;
+  background: transparent;
+  box-shadow: 0 20px 10px #999;
+  transform: rotate(-4deg)
+}
+#sticky::-webkit-scrollbar-track
+{
+	-webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
+	background-color: transparent;
+}
+#sticky::-webkit-scrollbar
+{
+	width: 10px;
+	background-color: #F5F5F5;
+}
+#sticky::-webkit-scrollbar-thumb
+{
+	background-color: transparent;
+	border: 0px;
+}
+
+
+
